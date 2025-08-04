@@ -1,0 +1,4 @@
+*.pdf
+*__init__.py
+cybersec_network_bot.egg-info
+__pycache__/

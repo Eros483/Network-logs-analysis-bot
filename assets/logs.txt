@@ -1,0 +1,44 @@
+2024-08-02 08:26:45 [INFO] UDP 192.168.1.106:5353 -> 224.0.0.251:5353 Multicast DNS Query _http._tcp.local
+2024-08-02 08:27:12 [INFO] TCP 192.168.1.104:22 -> 10.0.0.51:5555 SSH Connection established
+2024-08-02 08:27:34 [INFO] TCP 192.168.1.100:80 -> 93.184.216.34:80 GET /products.html HTTP/1.1 200 OK 2048 bytes
+2024-08-02 08:27:55 [WARN] TCP 203.0.113.45:3389 -> 192.168.1.105:3389 RDP Brute Force - Failed login attempt (user: sysadmin) Attempt #5
+2024-08-02 08:28:12 [CRITICAL] TCP 203.0.113.45:3389 -> 192.168.1.105:3389 RDP Brute Force - Failed login attempt (user: administrator) Attempt #6
+2024-08-02 08:28:34 [ALERT] TCP 192.168.1.100:8080 -> 203.0.113.200:8080 GET /api/v1/data?id=../etc/shadow - Directory Traversal Attempt
+2024-08-02 08:28:55 [INFO] TCP 192.168.1.102:443 -> 52.96.145.75:443 HTTPS Teams screen share started 0 bytes
+2024-08-02 08:29:12 [WARN] UDP 192.168.1.100:161 -> 192.168.1.1:161 SNMP Request - Unusual bulk request
+2024-08-02 08:29:45 [INFO] ICMP 192.168.1.103 -> 8.8.4.4 Ping Request TTL=64 64 bytes
+2024-08-02 08:30:01 [CRITICAL] TCP 192.168.1.100:4444 -> 45.12.112.133:4444 C2 Beacon - Remote shell activated
+2024-08-02 08:30:23 [ALERT] TCP 185.234.219.12:23 -> 192.168.1.100:23 Telnet Access Attempt - Legacy protocol
+2024-08-02 08:30:45 [INFO] UDP 192.168.1.100:69 -> 192.168.1.200:69 TFTP File Request - boot.img
+2024-08-02 08:31:12 [WARN] TCP 192.168.1.100:25 -> 198.51.100.7:25 SMTP Suspicious Attachment - filename: invoice.exe
+2024-08-02 08:31:45 [ALERT] TCP 103.224.182.251:80 -> 192.168.1.100:80 GET /.git/config HTTP/1.1 - Source Code Disclosure Attempt
+2024-08-02 08:32:12 [INFO] TCP 192.168.1.101:8080 -> 192.168.1.102:8080 API call /auth/token - Success
+2024-08-02 08:32:34 [INFO] UDP 192.168.1.105:137 -> 192.168.1.255:137 NetBIOS Name Query - Broadcast
+2024-08-02 08:32:55 [CRITICAL] TCP 192.168.1.100:139 -> 192.168.1.103:139 Unauthorized SMB access - Potential file enumeration
+2024-08-02 08:33:12 [WARN] TCP 91.189.95.85:22 -> 192.168.1.100:22 SSH Authentication failed (3 attempts in 10 seconds)
+2024-08-02 08:33:45 [INFO] TCP 192.168.1.104:443 -> 13.107.6.152:443 Outlook calendar sync
+2024-08-02 08:34:01 [ALERT] TCP 185.220.101.42:6667 -> 192.168.1.100:6667 IRC Bot joining suspicious channel
+2024-08-02 08:34:23 [INFO] UDP 192.168.1.100:500 -> 203.0.113.12:500 IKEv2 VPN negotiation request
+2024-08-02 08:34:45 [CRITICAL] TCP 192.168.1.100:3389 -> 203.0.113.45:3389 Reverse RDP Connection - C2 channel
+2024-08-02 08:35:12 [INFO] TCP 192.168.1.106:80 -> 172.217.14.238:80 HTTP GET /news HTTP/1.1 200 OK 3072 bytes
+2024-08-02 08:35:34 [WARN] TCP 192.168.1.100:21 -> 203.0.113.17:21 FTP login - Cleartext credentials used
+2024-08-02 08:35:55 [INFO] UDP 192.168.1.100:514 -> 192.168.1.1:514 Syslog message sent
+2024-08-02 08:36:12 [CRITICAL] TCP 192.168.1.100:389 -> 10.0.0.1:389 LDAP Enumeration Attempt - Suspected reconnaissance
+2024-08-02 08:36:45 [ALERT] TCP 192.168.1.100:443 -> 45.77.243.81:443 GET /api/secret-token HTTP/1.1 - Unauthorized API access
+2024-08-02 08:37:12 [INFO] TCP 192.168.1.102:3128 -> 192.168.1.103:80 Proxy request handled successfully
+2024-08-02 08:37:34 [WARN] TCP 203.0.113.45:22 -> 192.168.1.100:22 SSH Scan detected - 1000 IPs scanned
+2024-08-02 08:37:55 [INFO] TCP 192.168.1.103:443 -> 52.96.145.75:443 OneDrive file upload
+2024-08-02 08:38:12 [ALERT] TCP 185.234.219.12:80 -> 192.168.1.100:80 GET /.bash_history HTTP/1.1 - File Access Attempt
+2024-08-02 08:38:34 [CRITICAL] TCP 192.168.1.100:139 -> 192.168.1.200:139 Worm-like behavior - spreading via SMB
+2024-08-02 08:39:01 [INFO] UDP 192.168.1.100:67 -> 192.168.1.1:68 DHCP Acknowledge received
+2024-08-02 08:39:23 [WARN] TCP 192.168.1.104:443 -> 172.217.164.142:443 Unexpected certificate change detected
+2024-08-02 08:39:45 [INFO] TCP 192.168.1.100:80 -> 216.58.200.14:80 GET /about HTTP/1.1 200 OK 1024 bytes
+2024-08-02 08:40:12 [ALERT] TCP 45.148.10.125:80 -> 192.168.1.100:80 GET /admin/.env HTTP/1.1 - Secret config access attempt
+2024-08-02 08:40:34 [CRITICAL] TCP 192.168.1.100:135 -> 239.255.255.255:135 DCE/RPC Broadcast - Worm propagation attempt
+2024-08-02 08:41:01 [INFO] TCP 192.168.1.100:993 -> 104.47.0.36:993 IMAP email sync - Success
+2024-08-02 08:41:23 [ALERT] TCP 103.224.182.251:80 -> 192.168.1.100:80 GET /cgi-bin/../../etc/shadow HTTP/1.1 - Path traversal attempt
+2024-08-02 08:41:45 [CRITICAL] TCP 192.168.1.100:135 -> 192.168.1.255:135 EternalBlue exploit signature detected
+2024-08-02 08:42:12 [INFO] TCP 192.168.1.104:443 -> 40.113.200.201:443 HTTPS Azure authentication completed
+2024-08-02 08:42:34 [WARN] UDP 192.168.1.100:1900 -> 239.255.255.250:1900 Excessive SSDP packets - UPnP abuse suspected
+2024-08-02 08:43:01 [ALERT] TCP 142.250.191.14:80 -> 192.168.1.100:80 GET /.DS_Store HTTP/1.1 - Hidden macOS file access attempt
+2024-08-02 08:43:23 [INFO] UDP 192.168.1.106:123 -> 129.6.15.28:123 NTP Time sync success
