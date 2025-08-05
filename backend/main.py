@@ -46,12 +46,12 @@ async def upload_logs(file: UploadFile = File(...)):
     """
     global analysis_results, chatbot_instance
     
-    if not file.filename.endswith('.txt'):
-        raise HTTPException(status_code=400, detail="Only .txt files are supported")
+    if not file.filename.endswith('.csv'):
+        raise HTTPException(status_code=400, detail="Only .csv files are supported")
     
     try:
         # Create a temporary file to store the uploaded content
-        with tempfile.NamedTemporaryFile(mode='w+', delete=False, suffix='.txt') as temp_file:
+        with tempfile.NamedTemporaryFile(mode='w+', delete=False, suffix='.csv') as temp_file:
             content = await file.read()
             temp_file.write(content.decode('utf-8'))
             temp_file_path = temp_file.name

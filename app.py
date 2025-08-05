@@ -58,8 +58,8 @@ with st.sidebar:
             st.error("Failed to clear chat")
 
 # --- Section 1: Upload Logs ---
-st.subheader("Upload Network Logs")
-uploaded_file = st.file_uploader("Upload a .txt file", type=['txt'])
+st.subheader("Upload Network Logs in CSV format")
+uploaded_file = st.file_uploader("Upload a .csv file", type=['csv'])
 
 if uploaded_file is not None and not st.session_state.analysis_complete:
     with st.spinner("Analyzing uploaded logs..."):

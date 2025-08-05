@@ -5,6 +5,7 @@ from difflib import SequenceMatcher
 import requests
 from difflib import HtmlDiff
 import os
+import pandas as pd
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -29,6 +30,32 @@ class DocumentAnalysis:
 
         except Exception as e:
             raise CustomException("Failed to extract data", e)
+    
+    def format_log(self, row):
+        """
+        Format a single log entry for better readability
+        """
+        try:
+            return (
+                f"[{row['timestamp']}] ({row['log_type']}, {row['event_type']}) "
+                f"Severity: {row['severity']} | "
+                f"{row['event_type']} from {row['source_ip']} to {row['destination_ip']} "
+                f"using user '{row['user']}'. Message: {row['message']}"
+            )
+        except Exception as e:
+            raise CustomException("Failed to format log entry", e)  
+
+    def get_information_from_datasets(self):
+        """
+        Get information from datasets
+        """
+        try:
+            df=pd.read_csv(self.file_path)
+            df['formatted_log'] = df.apply(self.format_log, axis=1)
+            return "\n".join(df['formatted_log'].tolist())
+        except Exception as e:
+            raise CustomException("Failed to read CSV file", e)
+
 
     def analyse_logs(self, logs):
         """
@@ -68,7 +95,7 @@ class DocumentAnalysis:
 
     def run(self):
         try:
-            logs= self.extract_text_from_documents()
+            logs= self.get_information_from_datasets()
             logs_analysis_result = self.analyse_logs(logs)
             anomalies = self.identify_anomalies(logs_analysis_result)
             return {
