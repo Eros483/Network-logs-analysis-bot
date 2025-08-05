@@ -1,0 +1,1001 @@
+timestamp,hostname,process,pid,log_level,message
+Aug 01 08:41:41,web-server,sudo,833,WARNING,session opened for user root
+Jul 31 18:23:41,ubuntu-host,docker,7479,CRITICAL,service started for user ubuntu
+Jul 16 03:52:41,web-server,rsyslogd,1327,WARNING,Failed password for user root
+Jul 22 16:30:41,db-node,cron,6303,ERROR,system reboot for user shreya
+Jul 28 20:32:41,log-aggregator,python3,3488,WARNING,usermod for user svc-deploy
+Jul 28 21:53:41,db-node,rsyslogd,8895,INFO,Failed password for user arnab
+Jul 26 10:32:41,web-server,sshd,8987,CRITICAL,Accepted password for user shreya
+Jul 21 22:22:41,db-node,systemd,4751,CRITICAL,usermod for user svc-deploy
+Aug 02 12:54:41,log-aggregator,nginx,5677,CRITICAL,system reboot for user arnab
+Aug 02 07:38:41,db-node,rsyslogd,9232,CRITICAL,service started for user ubuntu
+Jul 17 06:52:41,web-server,python3,1721,ERROR,usermod for user ubuntu
+Jul 19 18:33:41,ubuntu-host,docker,837,INFO,cron job started for user svc-logger
+Aug 04 14:04:41,db-node,nginx,7271,WARNING,Failed password for user root
+Jul 26 01:42:41,web-server,bash,5799,INFO,useradd for user svc-deploy
+Jul 17 11:12:41,web-server,docker,7817,WARNING,sudo command executed for user ubuntu
+Jul 31 22:37:41,log-aggregator,docker,8299,WARNING,usermod for user root
+Jul 23 05:34:41,log-aggregator,sudo,8092,CRITICAL,service started for user svc-logger
+Aug 02 11:35:41,log-aggregator,bash,2058,CRITICAL,cron job ended for user arnab
+Jul 21 14:12:41,ubuntu-host,rsyslogd,7134,ERROR,session closed for user ubuntu
+Jul 17 15:23:41,db-node,python3,4527,ERROR,useradd for user ubuntu
+Jul 25 01:07:41,log-aggregator,rsyslogd,2138,CRITICAL,Failed password for user svc-deploy
+Jul 16 17:58:41,web-server,bash,1957,INFO,cron job ended for user arnab
+Aug 03 16:04:41,ubuntu-host,docker,8028,CRITICAL,Accepted password for user ubuntu
+Jul 24 23:56:41,log-aggregator,sshd,1054,CRITICAL,sudo command executed for user root
+Jul 16 00:41:41,web-server,docker,5859,INFO,usermod for user arnab
+Jul 29 06:07:41,web-server,python3,8218,CRITICAL,sudo command executed for user shreya
+Jul 23 18:02:41,ubuntu-host,sudo,2041,WARNING,service started for user shreya
+Jul 22 15:06:41,ubuntu-host,bash,1972,CRITICAL,usermod for user ubuntu
+Jul 23 09:06:41,ubuntu-host,bash,9039,WARNING,usermod for user arnab
+Aug 03 20:11:41,ubuntu-host,nginx,5296,WARNING,useradd for user ubuntu
+Jul 27 14:41:41,web-server,bash,3731,WARNING,system reboot for user ubuntu
+Aug 02 19:23:41,log-aggregator,sudo,7317,WARNING,cron job started for user svc-logger
+Jul 23 19:01:41,db-node,python3,5007,WARNING,service stopped for user arnab
+Jul 24 08:56:41,web-server,bash,818,CRITICAL,service started for user shreya
+Jul 22 20:47:41,db-node,bash,6770,CRITICAL,system reboot for user arnab
+Jul 28 22:40:41,web-server,python3,3901,CRITICAL,cron job started for user root
+Aug 01 14:35:41,log-aggregator,rsyslogd,9516,WARNING,session closed for user ubuntu
+Jul 15 13:29:41,ubuntu-host,cron,3053,WARNING,service stopped for user svc-deploy
+Jul 19 08:02:41,log-aggregator,docker,2059,CRITICAL,Failed password for user arnab
+Jul 29 10:35:41,db-node,docker,9819,INFO,cron job ended for user root
+Jul 31 21:18:41,db-node,docker,7908,CRITICAL,Failed password for user ubuntu
+Jul 21 22:28:41,web-server,bash,4246,ERROR,service started for user svc-logger
+Jul 25 16:09:41,db-node,nginx,6599,INFO,Failed password for user root
+Jul 16 04:33:41,db-node,docker,3450,INFO,service stopped for user ubuntu
+Aug 03 12:55:41,log-aggregator,nginx,9374,INFO,session closed for user svc-deploy
+Jul 27 18:10:41,log-aggregator,nginx,7925,ERROR,service started for user arnab
+Jul 30 01:40:41,web-server,rsyslogd,4051,WARNING,service started for user svc-deploy
+Jul 31 04:39:41,db-node,nginx,2250,ERROR,service started for user root
+Aug 01 19:22:41,log-aggregator,sudo,9755,ERROR,session opened for user root
+Aug 02 01:46:41,web-server,python3,3222,INFO,session opened for user arnab
+Jul 27 14:59:41,log-aggregator,nginx,4176,ERROR,sudo command executed for user root
+Jul 28 00:26:41,log-aggregator,nginx,3172,INFO,cron job ended for user ubuntu
+Jul 22 03:53:41,ubuntu-host,rsyslogd,4930,INFO,useradd for user arnab
+Jul 29 01:50:41,db-node,cron,5397,CRITICAL,Failed password for user svc-deploy
+Jul 27 17:59:41,ubuntu-host,python3,8384,CRITICAL,sudo command executed for user svc-deploy
+Aug 02 14:17:41,log-aggregator,systemd,3642,ERROR,session closed for user shreya
+Aug 04 06:41:41,log-aggregator,rsyslogd,8921,CRITICAL,sudo command executed for user root
+Jul 25 22:39:41,db-node,bash,2211,ERROR,Accepted password for user svc-deploy
+Aug 01 23:42:41,db-node,nginx,1349,INFO,sudo command executed for user ubuntu
+Jul 30 04:00:41,ubuntu-host,cron,8852,ERROR,cron job ended for user ubuntu
+Jul 18 07:07:41,web-server,systemd,1381,INFO,service started for user ubuntu
+Jul 20 00:36:41,db-node,docker,131,ERROR,useradd for user svc-deploy
+Jul 16 16:55:41,web-server,bash,3104,CRITICAL,session opened for user arnab
+Jul 27 07:01:41,ubuntu-host,python3,2047,WARNING,sudo command executed for user arnab
+Aug 04 21:34:41,db-node,systemd,8863,CRITICAL,cron job ended for user shreya
+Aug 03 00:14:41,log-aggregator,sudo,8953,CRITICAL,cron job started for user shreya
+Jul 24 21:03:41,db-node,systemd,3795,INFO,Failed password for user arnab
+Aug 01 16:38:41,web-server,python3,6602,ERROR,service stopped for user shreya
+Jul 25 08:14:41,db-node,sudo,7684,INFO,usermod for user shreya
+Jul 26 01:42:41,db-node,rsyslogd,4263,WARNING,usermod for user ubuntu
+Jul 15 20:18:41,log-aggregator,docker,5513,WARNING,sudo command executed for user svc-deploy
+Jul 27 22:28:41,log-aggregator,python3,968,WARNING,session opened for user shreya
+Jul 15 21:06:41,db-node,cron,5918,CRITICAL,cron job ended for user svc-deploy
+Jul 28 10:32:41,log-aggregator,sshd,8384,ERROR,session opened for user shreya
+Aug 01 23:26:41,db-node,docker,7878,INFO,session closed for user svc-logger
+Jul 29 13:12:41,log-aggregator,nginx,8033,CRITICAL,service started for user shreya
+Jul 18 18:45:41,web-server,cron,4710,ERROR,service stopped for user ubuntu
+Jul 21 09:08:41,db-node,python3,8296,WARNING,usermod for user shreya
+Jul 22 10:10:41,log-aggregator,rsyslogd,6357,WARNING,service started for user root
+Jul 21 16:43:41,web-server,systemd,2023,CRITICAL,system reboot for user svc-logger
+Jul 16 02:52:41,ubuntu-host,sudo,2893,ERROR,service started for user svc-logger
+Jul 19 03:26:41,ubuntu-host,cron,1189,INFO,sudo command executed for user svc-logger
+Aug 01 11:52:41,web-server,docker,1666,ERROR,Accepted password for user arnab
+Jul 21 07:04:41,db-node,rsyslogd,3406,INFO,sudo command executed for user svc-logger
+Jul 27 02:42:41,db-node,bash,2811,INFO,service started for user shreya
+Jul 24 23:05:41,ubuntu-host,docker,7893,WARNING,service stopped for user arnab
+Jul 29 03:56:41,web-server,rsyslogd,1447,INFO,useradd for user svc-logger
+Jul 20 06:20:41,ubuntu-host,systemd,2064,CRITICAL,Failed password for user root
+Jul 22 10:47:41,ubuntu-host,rsyslogd,7039,INFO,session opened for user arnab
+Jul 30 05:10:41,log-aggregator,docker,8459,WARNING,cron job ended for user arnab
+Jul 19 17:58:41,log-aggregator,bash,4201,CRITICAL,cron job started for user svc-deploy
+Jul 26 19:08:41,ubuntu-host,sshd,8088,ERROR,sudo command executed for user svc-deploy
+Jul 18 02:19:41,log-aggregator,python3,3009,CRITICAL,service stopped for user svc-deploy
+Jul 17 12:05:41,db-node,nginx,4574,ERROR,service started for user arnab
+Aug 01 03:25:41,ubuntu-host,cron,8753,CRITICAL,service stopped for user root
+Jul 28 21:44:41,log-aggregator,python3,2922,INFO,useradd for user svc-deploy
+Jul 25 16:18:41,log-aggregator,docker,6327,INFO,Failed password for user svc-logger
+Jul 18 05:05:41,log-aggregator,bash,9663,CRITICAL,session opened for user svc-logger
+Jul 25 15:36:41,log-aggregator,python3,7880,INFO,Failed password for user ubuntu
+Jul 24 18:10:41,ubuntu-host,sshd,7558,WARNING,cron job ended for user root
+Jul 25 07:06:41,log-aggregator,rsyslogd,8638,INFO,Accepted password for user arnab
+Jul 16 14:45:41,log-aggregator,rsyslogd,6499,CRITICAL,Accepted password for user root
+Jul 18 12:40:41,ubuntu-host,nginx,2245,WARNING,usermod for user ubuntu
+Aug 02 17:45:41,web-server,nginx,8068,ERROR,usermod for user arnab
+Jul 28 06:53:41,log-aggregator,bash,9794,WARNING,session opened for user shreya
+Jul 19 06:47:41,db-node,nginx,7334,CRITICAL,useradd for user arnab
+Aug 04 01:09:41,log-aggregator,rsyslogd,7476,INFO,session opened for user ubuntu
+Jul 20 22:19:41,web-server,nginx,1798,INFO,cron job ended for user svc-deploy
+Jul 26 21:40:41,db-node,cron,785,CRITICAL,useradd for user svc-logger
+Aug 05 01:11:41,log-aggregator,sshd,8163,ERROR,useradd for user svc-deploy
+Aug 01 15:31:41,web-server,python3,8150,INFO,Failed password for user svc-deploy
+Jul 27 21:35:41,db-node,python3,976,INFO,service stopped for user arnab
+Jul 31 02:11:41,ubuntu-host,python3,6227,INFO,system reboot for user ubuntu
+Aug 01 14:04:41,db-node,python3,2487,INFO,cron job ended for user shreya
+Jul 23 14:03:41,ubuntu-host,systemd,4039,INFO,Failed password for user shreya
+Jul 30 06:44:41,log-aggregator,sshd,1971,INFO,sudo command executed for user arnab
+Jul 24 07:26:41,ubuntu-host,nginx,5767,ERROR,session closed for user root
+Jul 23 08:48:41,db-node,docker,3627,ERROR,cron job started for user shreya
+Jul 19 03:28:41,log-aggregator,nginx,1566,INFO,cron job ended for user svc-logger
+Jul 24 06:14:41,ubuntu-host,sshd,7471,INFO,useradd for user ubuntu
+Jul 19 12:35:41,ubuntu-host,nginx,4407,WARNING,cron job ended for user shreya
+Aug 03 03:44:41,log-aggregator,docker,1529,INFO,session opened for user shreya
+Jul 30 12:05:41,log-aggregator,systemd,9383,CRITICAL,sudo command executed for user svc-deploy
+Aug 03 21:53:41,ubuntu-host,rsyslogd,8081,INFO,Accepted password for user svc-deploy
+Jul 29 18:36:41,db-node,sshd,2503,WARNING,Accepted password for user ubuntu
+Aug 02 04:35:41,log-aggregator,sudo,4527,ERROR,sudo command executed for user arnab
+Jul 19 00:40:41,ubuntu-host,bash,4948,WARNING,cron job started for user svc-deploy
+Aug 01 22:38:41,ubuntu-host,systemd,1014,CRITICAL,session opened for user shreya
+Jul 17 11:19:41,ubuntu-host,docker,988,ERROR,Failed password for user root
+Aug 05 00:13:41,db-node,sshd,2986,ERROR,service started for user root
+Aug 01 01:43:41,db-node,cron,1509,ERROR,usermod for user svc-logger
+Jul 29 16:57:41,db-node,cron,4598,ERROR,Accepted password for user ubuntu
+Jul 21 07:16:41,ubuntu-host,cron,358,INFO,system reboot for user svc-deploy
+Jul 25 18:47:41,ubuntu-host,rsyslogd,4715,CRITICAL,useradd for user svc-deploy
+Jul 19 14:30:41,web-server,bash,448,WARNING,service stopped for user svc-deploy
+Jul 17 04:35:41,log-aggregator,python3,3311,CRITICAL,usermod for user shreya
+Jul 23 16:31:41,ubuntu-host,docker,3447,WARNING,service stopped for user root
+Jul 18 08:16:41,log-aggregator,bash,9183,CRITICAL,useradd for user arnab
+Jul 22 20:51:41,db-node,sudo,9854,CRITICAL,sudo command executed for user svc-deploy
+Jul 24 06:56:41,ubuntu-host,sshd,1102,CRITICAL,sudo command executed for user svc-logger
+Jul 21 07:29:41,ubuntu-host,rsyslogd,4224,CRITICAL,cron job started for user root
+Aug 05 02:11:41,ubuntu-host,systemd,6963,WARNING,cron job started for user arnab
+Jul 31 21:12:41,db-node,python3,6741,WARNING,session closed for user svc-deploy
+Aug 04 07:06:41,web-server,docker,8537,ERROR,useradd for user ubuntu
+Jul 29 20:53:41,web-server,docker,1569,INFO,cron job started for user arnab
+Aug 01 11:39:41,log-aggregator,cron,6929,INFO,session opened for user svc-logger
+Jul 18 05:11:41,ubuntu-host,rsyslogd,2587,WARNING,system reboot for user shreya
+Jul 29 21:09:41,ubuntu-host,nginx,5359,INFO,Failed password for user ubuntu
+Aug 03 09:30:41,ubuntu-host,systemd,3105,WARNING,usermod for user shreya
+Jul 22 21:56:41,web-server,cron,9609,WARNING,session opened for user shreya
+Jul 30 05:07:41,db-node,rsyslogd,6928,CRITICAL,Failed password for user svc-logger
+Aug 05 01:09:41,db-node,sshd,8065,CRITICAL,Accepted password for user ubuntu
+Aug 04 15:52:41,db-node,sudo,7530,INFO,system reboot for user shreya
+Jul 25 07:18:41,db-node,sshd,2880,WARNING,service stopped for user shreya
+Jul 27 10:38:41,web-server,sshd,3254,INFO,session closed for user ubuntu
+Jul 28 05:04:41,log-aggregator,cron,3227,CRITICAL,cron job ended for user svc-logger
+Jul 28 23:28:41,db-node,docker,7917,CRITICAL,system reboot for user ubuntu
+Jul 21 10:10:41,db-node,sudo,5104,WARNING,system reboot for user root
+Jul 29 02:29:41,db-node,bash,7876,WARNING,service started for user ubuntu
+Jul 28 02:22:41,log-aggregator,sudo,8565,INFO,usermod for user shreya
+Jul 24 10:43:41,log-aggregator,docker,9146,ERROR,service started for user root
+Jul 28 20:49:41,db-node,systemd,8967,CRITICAL,sudo command executed for user root
+Jul 28 19:50:41,web-server,cron,6485,ERROR,session closed for user svc-deploy
+Jul 22 03:13:41,ubuntu-host,python3,2403,WARNING,sudo command executed for user root
+Jul 18 07:49:41,db-node,sshd,7067,WARNING,sudo command executed for user root
+Jul 29 00:20:41,web-server,python3,7965,CRITICAL,sudo command executed for user svc-deploy
+Jul 30 05:44:41,web-server,python3,1755,INFO,cron job started for user arnab
+Jul 29 14:19:41,db-node,python3,9548,ERROR,usermod for user arnab
+Jul 26 12:55:41,db-node,python3,7018,ERROR,usermod for user shreya
+Jul 19 13:40:41,log-aggregator,sudo,4914,ERROR,session closed for user shreya
+Jul 26 04:09:41,db-node,systemd,4717,ERROR,sudo command executed for user svc-logger
+Aug 05 04:18:41,web-server,sudo,5217,CRITICAL,system reboot for user root
+Jul 20 13:38:41,web-server,cron,8411,INFO,sudo command executed for user svc-logger
+Jul 17 09:24:41,db-node,sudo,1423,WARNING,useradd for user root
+Jul 24 00:44:41,log-aggregator,python3,3226,WARNING,service stopped for user svc-deploy
+Jul 20 05:06:41,log-aggregator,bash,7774,WARNING,useradd for user arnab
+Jul 17 09:30:41,web-server,rsyslogd,280,INFO,useradd for user ubuntu
+Aug 04 06:36:41,db-node,nginx,9165,CRITICAL,system reboot for user shreya
+Aug 03 21:12:41,db-node,sudo,5664,INFO,Accepted password for user svc-deploy
+Jul 19 23:45:41,ubuntu-host,docker,5839,ERROR,cron job started for user root
+Aug 04 21:53:41,log-aggregator,sshd,4037,INFO,cron job started for user shreya
+Jul 25 03:38:41,log-aggregator,docker,2019,WARNING,cron job ended for user arnab
+Jul 23 07:34:41,web-server,systemd,761,CRITICAL,service stopped for user svc-deploy
+Jul 18 21:34:41,ubuntu-host,cron,4434,CRITICAL,useradd for user arnab
+Jul 29 12:45:41,web-server,rsyslogd,4700,ERROR,service stopped for user svc-logger
+Jul 22 19:19:41,db-node,nginx,6973,CRITICAL,Accepted password for user svc-logger
+Jul 25 15:16:41,db-node,cron,5941,ERROR,system reboot for user svc-logger
+Jul 25 11:20:41,ubuntu-host,cron,3197,WARNING,session closed for user svc-logger
+Jul 19 06:15:41,web-server,nginx,6025,INFO,useradd for user svc-logger
+Jul 21 18:30:41,ubuntu-host,cron,7321,CRITICAL,Failed password for user arnab
+Jul 18 03:50:41,ubuntu-host,systemd,2490,INFO,session closed for user ubuntu
+Jul 31 22:42:41,log-aggregator,sudo,3988,WARNING,session opened for user root
+Jul 17 12:30:41,db-node,systemd,3040,CRITICAL,service started for user svc-logger
+Jul 28 11:32:41,log-aggregator,rsyslogd,1443,CRITICAL,cron job ended for user ubuntu
+Jul 16 13:12:41,ubuntu-host,rsyslogd,4366,ERROR,Accepted password for user arnab
+Jul 24 21:18:41,ubuntu-host,nginx,7910,ERROR,service started for user svc-logger
+Aug 03 23:57:41,web-server,cron,5278,INFO,service stopped for user ubuntu
+Jul 18 07:53:41,db-node,bash,7742,CRITICAL,service stopped for user arnab
+Jul 29 18:16:41,web-server,rsyslogd,5924,WARNING,Accepted password for user root
+Jul 30 16:33:41,db-node,nginx,4899,WARNING,cron job ended for user arnab
+Jul 30 21:58:41,ubuntu-host,rsyslogd,5439,CRITICAL,cron job ended for user ubuntu
+Aug 03 07:14:41,db-node,python3,5507,ERROR,session closed for user ubuntu
+Jul 31 14:45:41,log-aggregator,python3,5508,CRITICAL,sudo command executed for user shreya
+Jul 31 10:54:41,log-aggregator,nginx,3104,WARNING,session opened for user root
+Jul 30 15:50:41,web-server,systemd,3857,INFO,system reboot for user svc-logger
+Jul 19 03:47:41,db-node,docker,268,INFO,session closed for user arnab
+Jul 18 14:48:41,web-server,sudo,8148,CRITICAL,Failed password for user ubuntu
+Aug 02 13:43:41,log-aggregator,docker,6354,INFO,session opened for user shreya
+Aug 05 00:15:41,web-server,sudo,3374,ERROR,service stopped for user svc-logger
+Jul 21 15:53:41,db-node,cron,6100,WARNING,service stopped for user arnab
+Jul 28 04:01:41,db-node,sudo,5689,WARNING,system reboot for user ubuntu
+Jul 30 05:40:41,web-server,nginx,2454,WARNING,session closed for user svc-deploy
+Jul 15 23:29:41,log-aggregator,sudo,5224,INFO,system reboot for user root
+Jul 26 16:41:41,web-server,sshd,9004,CRITICAL,usermod for user arnab
+Jul 22 23:00:41,db-node,docker,1487,WARNING,useradd for user ubuntu
+Jul 27 06:41:41,ubuntu-host,systemd,4665,ERROR,session opened for user shreya
+Aug 04 09:15:41,log-aggregator,python3,3707,ERROR,service stopped for user ubuntu
+Jul 29 03:32:41,ubuntu-host,sudo,9373,ERROR,cron job started for user shreya
+Aug 01 06:26:41,db-node,sshd,7112,WARNING,Accepted password for user root
+Jul 18 19:34:41,web-server,rsyslogd,5661,INFO,system reboot for user ubuntu
+Jul 31 09:48:41,db-node,rsyslogd,8759,INFO,service started for user shreya
+Jul 24 11:46:41,db-node,cron,7256,INFO,sudo command executed for user svc-deploy
+Jul 19 16:29:41,db-node,rsyslogd,3811,WARNING,service started for user ubuntu
+Aug 01 06:22:41,web-server,cron,5547,CRITICAL,cron job started for user root
+Aug 03 05:17:41,log-aggregator,systemd,1492,INFO,cron job started for user arnab
+Jul 21 09:09:41,log-aggregator,systemd,8145,WARNING,session closed for user ubuntu
+Aug 01 17:14:41,db-node,systemd,4955,ERROR,cron job ended for user svc-deploy
+Jul 23 15:02:41,log-aggregator,systemd,3688,CRITICAL,Accepted password for user root
+Jul 16 20:20:41,ubuntu-host,docker,7560,CRITICAL,cron job ended for user ubuntu
+Jul 15 16:01:41,ubuntu-host,sudo,6506,WARNING,cron job ended for user svc-logger
+Aug 03 08:22:41,log-aggregator,nginx,6506,CRITICAL,session opened for user svc-deploy
+Aug 03 12:09:41,db-node,python3,5749,INFO,Failed password for user shreya
+Jul 25 13:21:41,log-aggregator,cron,3330,WARNING,service stopped for user svc-logger
+Aug 03 23:14:41,web-server,systemd,4358,ERROR,session closed for user svc-logger
+Aug 01 18:09:41,ubuntu-host,rsyslogd,3393,INFO,service stopped for user arnab
+Jul 20 08:19:41,db-node,rsyslogd,1340,CRITICAL,sudo command executed for user svc-logger
+Jul 18 12:21:41,db-node,rsyslogd,1169,ERROR,cron job ended for user root
+Jul 22 06:12:41,db-node,rsyslogd,3522,INFO,useradd for user svc-deploy
+Jul 15 23:27:41,ubuntu-host,sshd,675,ERROR,service started for user svc-deploy
+Jul 27 04:12:41,log-aggregator,systemd,3374,ERROR,usermod for user arnab
+Jul 21 15:32:41,db-node,bash,3014,ERROR,cron job ended for user shreya
+Jul 19 20:46:41,log-aggregator,systemd,8038,ERROR,session opened for user svc-logger
+Jul 29 02:32:41,ubuntu-host,sshd,1392,ERROR,useradd for user shreya
+Jul 30 15:04:41,ubuntu-host,rsyslogd,741,ERROR,Failed password for user arnab
+Jul 29 03:27:41,log-aggregator,python3,6756,CRITICAL,system reboot for user svc-deploy
+Jul 22 02:59:41,db-node,sudo,5559,ERROR,service started for user svc-deploy
+Jul 20 01:04:41,db-node,bash,1579,WARNING,system reboot for user root
+Jul 24 09:54:41,ubuntu-host,sudo,4053,WARNING,useradd for user ubuntu
+Jul 26 20:30:41,log-aggregator,rsyslogd,1239,ERROR,sudo command executed for user arnab
+Aug 02 00:36:41,db-node,rsyslogd,694,ERROR,usermod for user svc-logger
+Aug 02 13:17:41,log-aggregator,systemd,495,WARNING,cron job started for user ubuntu
+Jul 31 08:21:41,ubuntu-host,sshd,5885,INFO,useradd for user shreya
+Jul 19 13:38:41,ubuntu-host,docker,6872,INFO,usermod for user arnab
+Jul 18 04:16:41,ubuntu-host,python3,1205,INFO,service stopped for user svc-logger
+Jul 30 01:45:41,db-node,sudo,8983,WARNING,service stopped for user svc-deploy
+Jul 19 06:31:41,web-server,sudo,6027,CRITICAL,useradd for user arnab
+Jul 17 01:58:41,db-node,python3,9711,INFO,service stopped for user ubuntu
+Jul 22 11:33:41,web-server,docker,257,WARNING,Accepted password for user svc-deploy
+Jul 24 21:33:41,db-node,python3,5228,CRITICAL,Failed password for user svc-logger
+Jul 22 10:18:41,ubuntu-host,rsyslogd,4573,WARNING,Failed password for user shreya
+Jul 25 08:29:41,log-aggregator,cron,3822,WARNING,service started for user ubuntu
+Jul 25 15:56:41,ubuntu-host,cron,2624,INFO,cron job started for user arnab
+Aug 03 14:52:41,log-aggregator,sudo,703,ERROR,service started for user svc-logger
+Aug 04 07:48:41,db-node,cron,8824,ERROR,service stopped for user arnab
+Jul 28 04:53:41,web-server,docker,9511,INFO,useradd for user arnab
+Jul 31 10:06:41,ubuntu-host,sudo,8558,INFO,sudo command executed for user shreya
+Jul 18 16:42:41,log-aggregator,cron,6022,ERROR,session opened for user shreya
+Jul 29 00:34:41,db-node,rsyslogd,8664,WARNING,Accepted password for user ubuntu
+Jul 27 07:53:41,web-server,sshd,2518,CRITICAL,system reboot for user shreya
+Jul 18 13:38:41,ubuntu-host,docker,7249,ERROR,system reboot for user shreya
+Aug 02 16:21:41,db-node,systemd,7327,INFO,cron job ended for user shreya
+Jul 16 20:14:41,log-aggregator,rsyslogd,2535,INFO,session closed for user svc-deploy
+Aug 04 18:05:41,db-node,nginx,6425,ERROR,useradd for user ubuntu
+Jul 22 15:38:41,db-node,bash,2889,ERROR,Accepted password for user ubuntu
+Jul 19 10:26:41,web-server,docker,4801,WARNING,usermod for user root
+Jul 31 17:39:41,ubuntu-host,cron,7043,WARNING,session opened for user svc-deploy
+Jul 29 02:51:41,ubuntu-host,cron,5633,ERROR,Accepted password for user arnab
+Jul 30 11:39:41,log-aggregator,sshd,5781,WARNING,Accepted password for user shreya
+Jul 15 22:29:41,log-aggregator,sshd,8635,CRITICAL,useradd for user arnab
+Jul 21 02:27:41,log-aggregator,cron,3364,ERROR,cron job started for user arnab
+Jul 23 14:54:41,log-aggregator,bash,9571,WARNING,Accepted password for user svc-deploy
+Aug 03 16:22:41,web-server,sshd,2821,WARNING,service stopped for user root
+Jul 18 21:22:41,log-aggregator,cron,1767,INFO,session closed for user svc-logger
+Jul 29 21:50:41,web-server,rsyslogd,6322,INFO,session closed for user svc-deploy
+Jul 29 10:08:41,db-node,rsyslogd,687,WARNING,cron job started for user ubuntu
+Jul 31 07:52:41,web-server,sshd,7713,INFO,session closed for user arnab
+Jul 24 04:35:41,db-node,nginx,8236,CRITICAL,system reboot for user root
+Jul 24 12:01:41,ubuntu-host,sudo,962,CRITICAL,usermod for user root
+Jul 26 02:53:41,web-server,cron,3252,CRITICAL,system reboot for user shreya
+Jul 22 23:06:41,ubuntu-host,nginx,2063,CRITICAL,service started for user svc-logger
+Jul 16 14:15:41,ubuntu-host,sudo,4340,ERROR,sudo command executed for user ubuntu
+Aug 05 05:47:41,log-aggregator,python3,9332,WARNING,sudo command executed for user arnab
+Jul 29 22:17:41,web-server,nginx,3924,WARNING,session opened for user arnab
+Aug 02 01:03:41,db-node,nginx,7266,INFO,sudo command executed for user shreya
+Jul 30 01:09:41,log-aggregator,docker,3502,ERROR,session opened for user svc-logger
+Jul 31 01:12:41,db-node,rsyslogd,6395,INFO,cron job started for user arnab
+Jul 28 04:06:41,ubuntu-host,cron,5623,WARNING,session opened for user arnab
+Jul 20 20:57:41,ubuntu-host,bash,9723,ERROR,Accepted password for user svc-logger
+Jul 24 08:05:41,ubuntu-host,docker,4124,ERROR,session closed for user svc-logger
+Jul 27 07:05:41,ubuntu-host,systemd,7944,INFO,system reboot for user svc-deploy
+Aug 01 22:54:41,db-node,docker,6820,CRITICAL,session closed for user root
+Aug 02 01:44:41,ubuntu-host,bash,2917,ERROR,cron job started for user svc-deploy
+Jul 31 13:50:41,ubuntu-host,sudo,4738,INFO,cron job started for user ubuntu
+Jul 29 11:52:41,log-aggregator,bash,681,CRITICAL,service started for user arnab
+Jul 20 12:09:41,web-server,rsyslogd,5581,ERROR,cron job started for user root
+Jul 22 04:08:41,ubuntu-host,sudo,6521,WARNING,useradd for user ubuntu
+Jul 28 00:44:41,log-aggregator,docker,5792,WARNING,cron job started for user svc-deploy
+Jul 24 16:37:41,web-server,docker,9944,INFO,cron job started for user ubuntu
+Jul 16 03:10:41,web-server,docker,2612,WARNING,session opened for user root
+Jul 27 12:02:41,ubuntu-host,python3,2708,WARNING,Failed password for user shreya
+Jul 31 11:32:41,web-server,rsyslogd,4797,WARNING,service stopped for user shreya
+Jul 29 17:36:41,ubuntu-host,nginx,3282,INFO,service started for user ubuntu
+Jul 16 08:56:41,db-node,docker,8527,INFO,system reboot for user root
+Jul 30 08:23:41,web-server,systemd,9227,WARNING,service stopped for user root
+Aug 03 01:28:41,web-server,bash,1446,WARNING,useradd for user arnab
+Jul 22 10:33:41,ubuntu-host,bash,2397,INFO,useradd for user svc-logger
+Aug 05 02:38:41,web-server,nginx,7310,ERROR,cron job ended for user svc-deploy
+Jul 23 22:33:41,log-aggregator,bash,2633,INFO,cron job ended for user svc-deploy
+Aug 04 22:21:41,db-node,sudo,5579,CRITICAL,system reboot for user shreya
+Jul 28 02:26:41,ubuntu-host,cron,6823,ERROR,sudo command executed for user arnab
+Aug 03 03:46:41,web-server,rsyslogd,4978,WARNING,cron job ended for user ubuntu
+Jul 15 17:45:41,log-aggregator,sudo,7129,CRITICAL,cron job ended for user arnab
+Jul 26 10:52:41,web-server,systemd,9253,CRITICAL,cron job ended for user arnab
+Jul 28 15:40:41,db-node,rsyslogd,9013,CRITICAL,session opened for user shreya
+Jul 29 01:15:41,db-node,bash,7807,ERROR,service stopped for user svc-deploy
+Jul 25 13:52:41,ubuntu-host,rsyslogd,5924,WARNING,system reboot for user svc-deploy
+Jul 27 17:27:41,ubuntu-host,systemd,2670,ERROR,service started for user arnab
+Jul 21 15:44:41,ubuntu-host,sudo,4493,CRITICAL,session opened for user root
+Jul 17 17:30:41,log-aggregator,rsyslogd,3835,INFO,useradd for user arnab
+Aug 04 04:15:41,db-node,bash,9063,CRITICAL,useradd for user ubuntu
+Jul 19 02:26:41,web-server,sshd,3796,CRITICAL,session closed for user ubuntu
+Jul 31 09:45:41,log-aggregator,nginx,3490,INFO,usermod for user root
+Jul 21 06:53:41,db-node,bash,5128,INFO,service started for user arnab
+Jul 19 16:22:41,db-node,cron,6017,INFO,session opened for user svc-logger
+Jul 23 06:21:41,db-node,sudo,2835,ERROR,sudo command executed for user ubuntu
+Jul 19 01:53:41,ubuntu-host,rsyslogd,6100,INFO,service started for user arnab
+Jul 22 15:31:41,ubuntu-host,python3,3160,CRITICAL,Accepted password for user svc-deploy
+Jul 20 05:08:41,log-aggregator,python3,4455,WARNING,useradd for user svc-logger
+Jul 21 02:46:41,db-node,cron,4525,CRITICAL,cron job ended for user svc-deploy
+Jul 22 02:16:41,web-server,python3,4103,INFO,cron job started for user root
+Jul 18 09:47:41,web-server,systemd,7556,WARNING,sudo command executed for user svc-deploy
+Aug 01 16:22:41,web-server,rsyslogd,3302,CRITICAL,useradd for user ubuntu
+Jul 29 22:43:41,web-server,rsyslogd,6662,ERROR,session closed for user svc-deploy
+Jul 15 18:37:41,web-server,python3,9185,INFO,session opened for user shreya
+Jul 31 14:16:41,db-node,sshd,8426,CRITICAL,cron job ended for user arnab
+Jul 27 19:04:41,db-node,nginx,7137,WARNING,cron job started for user root
+Aug 04 15:04:41,db-node,bash,6334,INFO,session opened for user arnab
+Jul 27 00:01:41,log-aggregator,sshd,4677,CRITICAL,Failed password for user shreya
+Jul 18 07:58:41,ubuntu-host,nginx,4734,ERROR,Accepted password for user shreya
+Jul 23 19:07:41,web-server,cron,5040,INFO,useradd for user shreya
+Jul 28 15:46:41,db-node,cron,7840,INFO,system reboot for user arnab
+Aug 01 21:55:41,ubuntu-host,systemd,4917,ERROR,useradd for user svc-deploy
+Jul 25 05:19:41,web-server,systemd,8636,CRITICAL,cron job started for user root
+Jul 19 02:14:41,web-server,rsyslogd,1830,ERROR,service started for user shreya
+Jul 15 21:52:41,web-server,docker,6793,WARNING,usermod for user shreya
+Jul 27 16:25:41,log-aggregator,sudo,611,CRITICAL,useradd for user arnab
+Aug 04 06:50:41,ubuntu-host,docker,2597,INFO,cron job started for user svc-logger
+Jul 26 08:35:41,web-server,bash,4077,INFO,useradd for user svc-deploy
+Jul 30 18:19:41,ubuntu-host,systemd,5203,WARNING,system reboot for user shreya
+Jul 28 13:37:41,web-server,docker,7502,ERROR,service started for user ubuntu
+Jul 28 05:06:41,web-server,cron,5032,INFO,session closed for user svc-logger
+Jul 21 21:35:41,db-node,rsyslogd,9348,CRITICAL,Failed password for user svc-deploy
+Aug 04 07:59:41,web-server,sudo,6183,WARNING,system reboot for user root
+Jul 31 21:32:41,ubuntu-host,python3,6523,CRITICAL,session closed for user ubuntu
+Jul 25 19:35:41,web-server,rsyslogd,9034,CRITICAL,service stopped for user svc-logger
+Jul 27 16:01:41,ubuntu-host,rsyslogd,4771,INFO,session closed for user svc-logger
+Jul 23 13:27:41,db-node,bash,2282,INFO,usermod for user arnab
+Jul 15 21:54:41,web-server,sudo,8005,ERROR,usermod for user shreya
+Jul 27 19:45:41,db-node,python3,5379,WARNING,Accepted password for user svc-logger
+Jul 24 03:23:41,web-server,python3,996,ERROR,system reboot for user svc-deploy
+Jul 18 07:11:41,web-server,sudo,7095,INFO,cron job started for user arnab
+Jul 18 00:16:41,log-aggregator,rsyslogd,9852,CRITICAL,system reboot for user svc-deploy
+Jul 26 07:35:41,db-node,rsyslogd,8656,CRITICAL,usermod for user shreya
+Aug 03 15:46:41,log-aggregator,bash,1697,ERROR,service stopped for user root
+Jul 29 16:59:41,db-node,bash,1259,WARNING,useradd for user svc-deploy
+Jul 27 16:52:41,ubuntu-host,nginx,2543,ERROR,usermod for user svc-deploy
+Jul 27 09:28:41,ubuntu-host,cron,2041,CRITICAL,sudo command executed for user shreya
+Jul 24 08:54:41,log-aggregator,sudo,2154,ERROR,service stopped for user svc-logger
+Aug 02 13:16:41,ubuntu-host,sudo,355,WARNING,cron job started for user arnab
+Aug 03 22:45:41,web-server,nginx,8132,WARNING,sudo command executed for user root
+Jul 20 16:18:41,log-aggregator,sshd,2220,ERROR,session opened for user root
+Aug 02 22:23:41,log-aggregator,bash,5671,WARNING,cron job started for user ubuntu
+Jul 20 03:01:41,db-node,sudo,7765,ERROR,usermod for user svc-logger
+Jul 25 03:38:41,db-node,python3,4368,ERROR,Failed password for user svc-logger
+Jul 17 22:46:41,ubuntu-host,systemd,4672,WARNING,useradd for user shreya
+Jul 28 01:05:41,web-server,bash,7300,ERROR,service stopped for user ubuntu
+Aug 03 23:06:41,db-node,rsyslogd,9204,INFO,usermod for user root
+Jul 29 16:59:41,db-node,python3,2856,WARNING,useradd for user arnab
+Aug 03 08:40:41,db-node,cron,7423,ERROR,useradd for user svc-deploy
+Aug 02 12:55:41,ubuntu-host,bash,5448,WARNING,usermod for user root
+Jul 21 00:29:41,log-aggregator,nginx,8684,CRITICAL,cron job started for user ubuntu
+Aug 01 22:08:41,web-server,nginx,3683,CRITICAL,Failed password for user arnab
+Aug 04 21:27:41,ubuntu-host,cron,549,WARNING,Failed password for user shreya
+Aug 05 00:05:41,db-node,sudo,7799,INFO,Accepted password for user svc-logger
+Aug 01 12:55:41,web-server,cron,8364,WARNING,cron job ended for user arnab
+Jul 29 11:50:41,ubuntu-host,cron,404,WARNING,session opened for user ubuntu
+Aug 01 22:54:41,ubuntu-host,nginx,1678,INFO,service stopped for user root
+Jul 16 13:10:41,web-server,systemd,4456,INFO,cron job started for user arnab
+Jul 19 22:25:41,web-server,sshd,9040,INFO,Failed password for user shreya
+Aug 03 11:51:41,db-node,cron,6233,ERROR,useradd for user ubuntu
+Jul 25 11:53:41,ubuntu-host,rsyslogd,7021,CRITICAL,service stopped for user svc-logger
+Jul 16 01:57:41,web-server,cron,7930,ERROR,system reboot for user ubuntu
+Jul 15 13:59:41,db-node,bash,2773,CRITICAL,system reboot for user svc-deploy
+Jul 24 15:05:41,ubuntu-host,sudo,3108,INFO,system reboot for user svc-deploy
+Jul 17 11:49:41,log-aggregator,cron,1141,CRITICAL,session opened for user shreya
+Jul 22 11:44:41,ubuntu-host,nginx,9088,WARNING,cron job started for user arnab
+Aug 02 22:03:41,log-aggregator,nginx,5353,CRITICAL,sudo command executed for user root
+Jul 23 12:13:41,ubuntu-host,rsyslogd,1541,WARNING,useradd for user arnab
+Jul 20 12:48:41,ubuntu-host,sshd,916,CRITICAL,service started for user root
+Jul 29 15:57:41,log-aggregator,python3,8657,CRITICAL,useradd for user svc-logger
+Jul 24 19:33:41,web-server,nginx,1655,CRITICAL,sudo command executed for user ubuntu
+Aug 03 21:06:41,log-aggregator,sudo,6412,WARNING,session closed for user arnab
+Jul 31 05:28:41,db-node,rsyslogd,9574,WARNING,cron job started for user shreya
+Aug 03 04:01:41,web-server,bash,838,CRITICAL,system reboot for user arnab
+Jul 22 14:53:41,log-aggregator,nginx,2545,ERROR,service started for user root
+Jul 23 15:34:41,log-aggregator,systemd,2010,INFO,cron job started for user ubuntu
+Jul 30 01:32:41,ubuntu-host,bash,2404,INFO,cron job ended for user arnab
+Jul 30 11:47:41,db-node,nginx,9355,INFO,session opened for user arnab
+Jul 20 13:43:41,log-aggregator,python3,1814,INFO,Failed password for user arnab
+Jul 23 19:41:41,db-node,sshd,597,WARNING,session opened for user root
+Jul 18 06:59:41,ubuntu-host,systemd,7878,INFO,Failed password for user arnab
+Jul 25 02:34:41,db-node,sshd,3508,INFO,usermod for user svc-deploy
+Jul 18 06:46:41,ubuntu-host,cron,8787,INFO,session opened for user arnab
+Jul 22 16:32:41,web-server,nginx,9956,WARNING,Failed password for user svc-logger
+Jul 20 11:42:41,ubuntu-host,docker,3884,ERROR,session closed for user root
+Jul 16 05:35:41,db-node,cron,1857,WARNING,sudo command executed for user svc-logger
+Aug 02 14:56:41,db-node,nginx,2602,ERROR,session closed for user ubuntu
+Jul 25 15:05:41,ubuntu-host,cron,2371,WARNING,cron job ended for user arnab
+Jul 18 20:24:41,log-aggregator,rsyslogd,8817,ERROR,useradd for user arnab
+Jul 15 23:08:41,log-aggregator,systemd,7016,WARNING,cron job started for user arnab
+Aug 03 02:45:41,db-node,rsyslogd,1980,INFO,useradd for user ubuntu
+Jul 30 09:19:41,log-aggregator,python3,5931,WARNING,session opened for user svc-logger
+Jul 15 21:03:41,web-server,docker,1274,CRITICAL,useradd for user svc-logger
+Aug 04 12:46:41,web-server,rsyslogd,3612,CRITICAL,service started for user ubuntu
+Jul 20 10:14:41,web-server,python3,522,CRITICAL,service started for user shreya
+Aug 03 11:52:41,web-server,python3,1208,CRITICAL,session opened for user arnab
+Jul 22 14:00:41,log-aggregator,rsyslogd,8136,CRITICAL,service stopped for user ubuntu
+Jul 15 12:17:41,web-server,docker,8698,ERROR,Accepted password for user svc-deploy
+Aug 04 08:37:41,web-server,systemd,8132,WARNING,Accepted password for user shreya
+Jul 27 18:03:41,web-server,systemd,6091,INFO,Accepted password for user shreya
+Aug 01 10:30:41,ubuntu-host,python3,6551,CRITICAL,Failed password for user shreya
+Aug 04 06:39:41,log-aggregator,sshd,5547,ERROR,session opened for user ubuntu
+Jul 16 22:32:41,ubuntu-host,cron,9929,WARNING,Accepted password for user svc-deploy
+Jul 18 22:20:41,db-node,sshd,827,WARNING,sudo command executed for user svc-logger
+Jul 19 15:24:41,db-node,systemd,3982,CRITICAL,session opened for user arnab
+Aug 03 15:43:41,ubuntu-host,sudo,8960,ERROR,useradd for user arnab
+Aug 05 04:47:41,db-node,systemd,7911,ERROR,session closed for user ubuntu
+Jul 22 07:28:41,ubuntu-host,docker,9995,ERROR,service started for user svc-deploy
+Jul 20 04:11:41,web-server,nginx,8664,ERROR,cron job ended for user shreya
+Jul 16 01:38:41,log-aggregator,systemd,9974,ERROR,usermod for user svc-logger
+Aug 05 03:44:41,web-server,bash,9530,ERROR,useradd for user svc-deploy
+Aug 04 18:01:41,web-server,docker,1188,CRITICAL,cron job ended for user root
+Jul 23 11:49:41,ubuntu-host,sudo,860,WARNING,sudo command executed for user arnab
+Jul 22 05:14:41,web-server,docker,910,INFO,session closed for user shreya
+Jul 31 05:21:41,web-server,cron,2521,CRITICAL,usermod for user root
+Jul 29 16:49:41,ubuntu-host,docker,2036,CRITICAL,sudo command executed for user svc-logger
+Aug 03 06:53:41,db-node,nginx,9095,WARNING,service stopped for user ubuntu
+Aug 02 00:53:41,web-server,cron,6070,INFO,system reboot for user svc-logger
+Jul 30 16:21:41,web-server,cron,3536,WARNING,Accepted password for user ubuntu
+Aug 02 10:11:41,web-server,docker,972,CRITICAL,useradd for user root
+Jul 20 10:30:41,ubuntu-host,sudo,4958,WARNING,service stopped for user svc-deploy
+Jul 23 17:09:41,log-aggregator,rsyslogd,8523,CRITICAL,service started for user svc-logger
+Jul 30 22:01:41,web-server,docker,2448,ERROR,service started for user arnab
+Jul 18 17:59:41,ubuntu-host,nginx,1041,CRITICAL,Accepted password for user root
+Jul 17 16:46:41,web-server,python3,2810,INFO,system reboot for user arnab
+Jul 26 10:21:41,db-node,rsyslogd,3591,CRITICAL,Failed password for user svc-deploy
+Jul 28 01:02:41,log-aggregator,systemd,6617,ERROR,usermod for user shreya
+Jul 23 04:59:41,web-server,python3,6171,WARNING,cron job started for user root
+Jul 27 07:21:41,ubuntu-host,sudo,9381,CRITICAL,useradd for user svc-deploy
+Jul 25 05:09:41,db-node,rsyslogd,563,WARNING,system reboot for user ubuntu
+Jul 18 20:57:41,ubuntu-host,docker,9563,CRITICAL,service started for user shreya
+Jul 30 21:32:41,ubuntu-host,sshd,1598,WARNING,service started for user ubuntu
+Jul 20 12:29:41,db-node,docker,1128,CRITICAL,service stopped for user shreya
+Jul 28 09:58:41,ubuntu-host,docker,2477,CRITICAL,system reboot for user svc-deploy
+Jul 23 16:15:41,ubuntu-host,cron,2019,ERROR,system reboot for user svc-deploy
+Aug 05 02:44:41,db-node,cron,6892,INFO,Accepted password for user shreya
+Jul 31 21:00:41,ubuntu-host,bash,980,WARNING,useradd for user ubuntu
+Jul 18 00:56:41,ubuntu-host,python3,1353,ERROR,useradd for user svc-logger
+Jul 28 17:24:41,log-aggregator,sudo,1297,CRITICAL,cron job ended for user shreya
+Aug 02 08:47:41,ubuntu-host,python3,4549,CRITICAL,system reboot for user shreya
+Jul 24 01:32:41,db-node,nginx,8311,ERROR,service stopped for user svc-deploy
+Jul 31 07:08:41,web-server,systemd,370,WARNING,session closed for user svc-logger
+Jul 29 14:22:41,db-node,python3,559,INFO,Failed password for user svc-deploy
+Jul 18 05:00:41,ubuntu-host,docker,8698,CRITICAL,service stopped for user root
+Jul 29 18:55:41,log-aggregator,systemd,8836,WARNING,usermod for user shreya
+Jul 16 23:05:41,log-aggregator,systemd,550,ERROR,cron job started for user svc-deploy
+Jul 30 13:33:41,log-aggregator,python3,9503,WARNING,Failed password for user ubuntu
+Jul 29 08:44:41,db-node,python3,528,CRITICAL,sudo command executed for user arnab
+Jul 31 06:05:41,db-node,nginx,1443,CRITICAL,useradd for user root
+Jul 29 12:14:41,db-node,cron,5005,INFO,useradd for user root
+Aug 03 18:39:41,web-server,python3,8514,CRITICAL,system reboot for user ubuntu
+Jul 22 06:38:41,web-server,cron,9273,CRITICAL,session opened for user ubuntu
+Jul 26 05:20:41,ubuntu-host,bash,6365,WARNING,Accepted password for user ubuntu
+Jul 31 04:49:41,web-server,python3,5595,WARNING,service started for user svc-deploy
+Jul 19 09:20:41,ubuntu-host,bash,6389,CRITICAL,session opened for user svc-deploy
+Jul 29 05:25:41,log-aggregator,bash,1065,WARNING,cron job started for user svc-deploy
+Jul 16 22:04:41,ubuntu-host,bash,5435,CRITICAL,Failed password for user root
+Jul 20 21:20:41,ubuntu-host,rsyslogd,2188,INFO,session closed for user root
+Jul 24 01:13:41,db-node,sshd,4255,ERROR,usermod for user svc-deploy
+Jul 16 10:41:41,log-aggregator,docker,5137,INFO,service started for user svc-deploy
+Jul 30 09:55:41,web-server,docker,4621,ERROR,sudo command executed for user shreya
+Aug 04 17:14:41,ubuntu-host,docker,9767,WARNING,service stopped for user svc-logger
+Jul 21 08:29:41,ubuntu-host,sudo,6071,WARNING,sudo command executed for user svc-deploy
+Jul 17 00:48:41,log-aggregator,sshd,7698,ERROR,useradd for user arnab
+Aug 04 23:17:41,web-server,nginx,8837,WARNING,service stopped for user shreya
+Aug 04 05:51:41,log-aggregator,bash,2329,ERROR,cron job started for user shreya
+Jul 24 05:22:41,web-server,rsyslogd,8089,ERROR,system reboot for user svc-logger
+Jul 28 03:02:41,ubuntu-host,docker,1353,WARNING,cron job ended for user shreya
+Aug 03 08:29:41,ubuntu-host,cron,2284,WARNING,cron job started for user shreya
+Jul 26 22:15:41,ubuntu-host,systemd,1885,CRITICAL,system reboot for user ubuntu
+Jul 20 10:41:41,web-server,nginx,2895,INFO,Failed password for user root
+Jul 16 23:31:41,db-node,docker,6717,CRITICAL,Accepted password for user root
+Jul 31 05:44:41,log-aggregator,systemd,2318,CRITICAL,session closed for user ubuntu
+Jul 16 11:04:41,db-node,docker,9023,INFO,session closed for user svc-deploy
+Aug 01 20:26:41,db-node,rsyslogd,6483,WARNING,system reboot for user shreya
+Jul 28 09:27:41,log-aggregator,docker,1285,ERROR,session opened for user arnab
+Jul 22 07:30:41,db-node,systemd,5222,WARNING,service stopped for user arnab
+Jul 27 20:15:41,web-server,sudo,9687,WARNING,sudo command executed for user svc-logger
+Jul 17 02:02:41,web-server,bash,7370,INFO,service started for user svc-deploy
+Jul 19 19:02:41,web-server,sudo,3727,WARNING,session closed for user shreya
+Jul 17 21:31:41,log-aggregator,cron,2594,CRITICAL,system reboot for user ubuntu
+Jul 26 16:45:41,ubuntu-host,systemd,970,INFO,Accepted password for user arnab
+Jul 20 10:15:41,log-aggregator,cron,8497,INFO,service stopped for user svc-logger
+Jul 15 20:20:41,db-node,nginx,8076,WARNING,sudo command executed for user shreya
+Aug 02 13:47:41,db-node,systemd,3718,ERROR,useradd for user shreya
+Jul 28 14:08:41,ubuntu-host,rsyslogd,2611,WARNING,system reboot for user root
+Jul 27 19:24:41,ubuntu-host,bash,7691,WARNING,sudo command executed for user arnab
+Aug 03 04:34:41,web-server,systemd,9144,INFO,session opened for user root
+Jul 29 15:53:41,db-node,python3,4618,ERROR,session opened for user arnab
+Jul 18 09:22:41,web-server,sudo,6559,INFO,Accepted password for user shreya
+Aug 02 14:29:41,web-server,python3,160,INFO,sudo command executed for user ubuntu
+Aug 02 04:56:41,web-server,sudo,2085,CRITICAL,system reboot for user shreya
+Jul 30 15:25:41,web-server,python3,3300,CRITICAL,Failed password for user svc-logger
+Jul 18 05:48:41,web-server,docker,8389,INFO,session closed for user ubuntu
+Jul 16 05:03:41,log-aggregator,rsyslogd,1669,INFO,system reboot for user ubuntu
+Jul 17 16:09:41,log-aggregator,rsyslogd,3241,CRITICAL,useradd for user svc-logger
+Jul 17 13:47:41,web-server,sudo,3158,CRITICAL,service started for user root
+Jul 23 11:28:41,db-node,cron,8654,CRITICAL,Accepted password for user shreya
+Jul 16 11:10:41,log-aggregator,docker,8537,INFO,system reboot for user arnab
+Aug 01 12:16:41,ubuntu-host,python3,3693,WARNING,useradd for user svc-deploy
+Jul 28 06:35:41,ubuntu-host,rsyslogd,388,ERROR,useradd for user shreya
+Jul 28 21:53:41,ubuntu-host,cron,4547,WARNING,Failed password for user arnab
+Jul 31 22:18:41,log-aggregator,cron,1593,WARNING,Failed password for user arnab
+Jul 27 19:55:41,log-aggregator,sshd,9641,ERROR,session opened for user ubuntu
+Jul 20 09:08:41,web-server,sudo,8132,ERROR,useradd for user root
+Jul 27 01:06:41,web-server,bash,6634,WARNING,service stopped for user svc-logger
+Jul 28 13:57:41,log-aggregator,nginx,5024,CRITICAL,service stopped for user root
+Aug 02 22:17:41,db-node,systemd,6640,CRITICAL,service started for user root
+Jul 31 23:05:41,web-server,systemd,2468,CRITICAL,service started for user root
+Jul 16 21:47:41,db-node,sudo,2670,WARNING,cron job ended for user arnab
+Jul 20 15:18:41,db-node,rsyslogd,5954,ERROR,service stopped for user svc-logger
+Jul 19 00:36:41,log-aggregator,nginx,7039,WARNING,session opened for user root
+Jul 21 03:19:41,db-node,rsyslogd,2502,ERROR,useradd for user arnab
+Jul 20 02:50:41,ubuntu-host,docker,8887,INFO,Failed password for user arnab
+Jul 20 02:34:41,db-node,docker,1181,INFO,usermod for user arnab
+Aug 01 00:57:41,ubuntu-host,sshd,6989,CRITICAL,sudo command executed for user shreya
+Aug 04 05:57:41,log-aggregator,rsyslogd,4215,INFO,useradd for user svc-logger
+Jul 27 17:38:41,web-server,nginx,5896,INFO,usermod for user svc-logger
+Jul 29 10:15:41,ubuntu-host,cron,534,ERROR,useradd for user svc-deploy
+Jul 23 22:08:41,db-node,sshd,8219,CRITICAL,Accepted password for user ubuntu
+Jul 17 03:45:41,log-aggregator,systemd,794,INFO,system reboot for user ubuntu
+Jul 20 04:13:41,ubuntu-host,systemd,6729,WARNING,Accepted password for user svc-deploy
+Aug 05 06:08:41,log-aggregator,cron,7345,CRITICAL,service stopped for user shreya
+Jul 25 14:48:41,log-aggregator,python3,4167,ERROR,cron job started for user shreya
+Jul 23 22:51:41,db-node,python3,3809,WARNING,Accepted password for user ubuntu
+Jul 31 11:10:41,db-node,docker,874,ERROR,system reboot for user shreya
+Jul 25 07:31:41,db-node,bash,8380,ERROR,cron job ended for user arnab
+Aug 02 01:38:41,web-server,cron,7479,INFO,sudo command executed for user svc-logger
+Aug 05 05:59:41,log-aggregator,systemd,1015,WARNING,session closed for user root
+Aug 01 08:24:41,web-server,sudo,6866,INFO,sudo command executed for user root
+Jul 30 19:05:41,ubuntu-host,cron,5677,INFO,sudo command executed for user root
+Aug 03 12:53:41,ubuntu-host,systemd,937,WARNING,service started for user root
+Jul 18 05:12:41,log-aggregator,bash,3830,INFO,cron job ended for user shreya
+Aug 01 07:54:41,log-aggregator,nginx,3005,INFO,service started for user ubuntu
+Aug 02 13:06:41,db-node,nginx,2689,ERROR,session closed for user root
+Jul 20 01:49:41,db-node,sshd,969,WARNING,service stopped for user arnab
+Jul 23 10:59:41,db-node,docker,4782,CRITICAL,system reboot for user svc-deploy
+Jul 23 07:00:41,web-server,docker,7545,INFO,Accepted password for user shreya
+Jul 30 12:58:41,log-aggregator,nginx,3435,WARNING,useradd for user svc-logger
+Jul 28 12:12:41,ubuntu-host,systemd,3988,WARNING,Accepted password for user svc-logger
+Jul 26 20:39:41,web-server,sshd,890,CRITICAL,session opened for user arnab
+Jul 15 18:35:41,ubuntu-host,systemd,9034,WARNING,session closed for user shreya
+Jul 19 05:21:41,db-node,cron,8217,INFO,useradd for user svc-logger
+Jul 22 21:30:41,web-server,cron,3316,INFO,Accepted password for user root
+Jul 25 05:15:41,web-server,systemd,9565,CRITICAL,usermod for user arnab
+Jul 17 17:50:41,db-node,python3,6590,WARNING,sudo command executed for user root
+Jul 26 04:19:41,log-aggregator,nginx,1300,WARNING,cron job ended for user svc-logger
+Jul 22 08:27:41,log-aggregator,cron,2787,CRITICAL,cron job started for user svc-logger
+Jul 17 00:44:41,web-server,sshd,3589,WARNING,session opened for user root
+Aug 04 19:22:41,ubuntu-host,sudo,4069,ERROR,session opened for user svc-logger
+Aug 05 04:02:41,db-node,nginx,1344,CRITICAL,cron job ended for user arnab
+Jul 20 07:16:41,log-aggregator,python3,3882,WARNING,service stopped for user ubuntu
+Aug 01 23:21:41,db-node,nginx,7821,CRITICAL,session opened for user arnab
+Jul 28 10:29:41,web-server,python3,5700,ERROR,service stopped for user svc-logger
+Aug 02 15:46:41,db-node,systemd,4985,INFO,usermod for user svc-deploy
+Jul 24 09:36:41,db-node,sudo,1551,CRITICAL,cron job ended for user svc-logger
+Jul 24 03:41:41,ubuntu-host,bash,2345,INFO,usermod for user arnab
+Jul 31 15:36:41,ubuntu-host,cron,6483,WARNING,service started for user arnab
+Jul 25 22:49:41,ubuntu-host,python3,4112,INFO,sudo command executed for user shreya
+Jul 24 20:08:41,db-node,systemd,4012,CRITICAL,cron job ended for user arnab
+Aug 03 12:47:41,web-server,python3,3282,INFO,session opened for user svc-deploy
+Jul 18 01:18:41,ubuntu-host,python3,2035,WARNING,cron job ended for user ubuntu
+Jul 21 09:27:41,web-server,cron,3354,ERROR,session opened for user svc-deploy
+Aug 04 12:23:41,db-node,systemd,5484,INFO,usermod for user svc-logger
+Jul 24 23:33:41,ubuntu-host,python3,614,CRITICAL,session closed for user ubuntu
+Jul 21 21:15:41,log-aggregator,sudo,4074,CRITICAL,Failed password for user root
+Jul 29 19:52:41,ubuntu-host,python3,3126,CRITICAL,Failed password for user svc-deploy
+Jul 24 23:14:41,ubuntu-host,cron,6689,CRITICAL,cron job started for user shreya
+Jul 22 06:55:41,log-aggregator,rsyslogd,2632,ERROR,sudo command executed for user ubuntu
+Jul 19 07:21:41,log-aggregator,docker,5759,INFO,service started for user svc-logger
+Jul 19 11:45:41,web-server,sudo,5298,INFO,Failed password for user root
+Jul 27 01:42:41,web-server,rsyslogd,6486,WARNING,session closed for user ubuntu
+Jul 31 06:59:41,db-node,rsyslogd,6707,ERROR,session closed for user shreya
+Aug 01 21:58:41,db-node,nginx,7932,ERROR,Failed password for user root
+Jul 23 08:49:41,ubuntu-host,rsyslogd,1426,INFO,service started for user arnab
+Jul 31 23:27:41,web-server,cron,6486,WARNING,usermod for user shreya
+Jul 15 15:38:41,web-server,sshd,6381,CRITICAL,cron job started for user arnab
+Aug 01 04:50:41,web-server,bash,9026,WARNING,session opened for user svc-logger
+Jul 26 02:41:41,db-node,systemd,7385,INFO,Failed password for user arnab
+Jul 19 04:36:41,log-aggregator,rsyslogd,1023,ERROR,service started for user svc-deploy
+Aug 03 00:32:41,log-aggregator,python3,120,ERROR,cron job started for user ubuntu
+Jul 15 22:21:41,log-aggregator,docker,8496,INFO,Accepted password for user ubuntu
+Jul 24 03:43:41,db-node,systemd,6130,INFO,useradd for user ubuntu
+Aug 03 09:37:41,web-server,nginx,4451,CRITICAL,cron job started for user root
+Jul 21 15:15:41,log-aggregator,sudo,1797,CRITICAL,cron job ended for user root
+Aug 02 12:17:41,web-server,bash,798,INFO,service stopped for user svc-deploy
+Jul 30 06:22:41,db-node,python3,1883,CRITICAL,cron job ended for user root
+Jul 26 15:05:41,ubuntu-host,python3,9504,CRITICAL,service started for user shreya
+Jul 30 19:25:41,web-server,sshd,1554,INFO,service stopped for user shreya
+Aug 03 08:57:41,log-aggregator,nginx,4994,WARNING,session closed for user svc-logger
+Aug 04 14:44:41,web-server,nginx,4024,ERROR,service started for user arnab
+Jul 26 03:28:41,ubuntu-host,rsyslogd,8650,INFO,cron job started for user svc-deploy
+Jul 27 14:48:41,web-server,docker,7356,INFO,Failed password for user svc-logger
+Jul 27 18:27:41,ubuntu-host,bash,9433,WARNING,cron job started for user ubuntu
+Jul 19 04:55:41,log-aggregator,cron,4932,ERROR,usermod for user arnab
+Jul 16 16:52:41,log-aggregator,sshd,1071,ERROR,service stopped for user ubuntu
+Aug 02 05:23:41,db-node,nginx,6135,INFO,usermod for user ubuntu
+Jul 30 11:59:41,web-server,sudo,6992,CRITICAL,Failed password for user root
+Jul 27 01:29:41,log-aggregator,sshd,8662,ERROR,usermod for user arnab
+Jul 24 00:45:41,db-node,systemd,7847,CRITICAL,usermod for user svc-deploy
+Jul 17 10:13:41,ubuntu-host,rsyslogd,4919,INFO,usermod for user arnab
+Aug 05 02:56:41,db-node,nginx,7073,INFO,Accepted password for user svc-deploy
+Jul 28 14:02:41,log-aggregator,sudo,6775,CRITICAL,system reboot for user arnab
+Jul 21 23:50:41,db-node,bash,1438,CRITICAL,session opened for user svc-logger
+Jul 29 02:00:41,log-aggregator,docker,2620,CRITICAL,session closed for user svc-deploy
+Jul 26 02:02:41,db-node,sshd,8473,ERROR,session opened for user shreya
+Aug 02 07:10:41,log-aggregator,docker,8145,WARNING,Accepted password for user root
+Jul 30 02:57:41,ubuntu-host,bash,6877,CRITICAL,system reboot for user shreya
+Jul 20 05:27:41,log-aggregator,cron,2256,CRITICAL,Accepted password for user arnab
+Jul 27 17:46:41,log-aggregator,bash,2867,INFO,system reboot for user svc-logger
+Jul 31 20:53:41,db-node,sshd,4706,INFO,Accepted password for user root
+Aug 03 14:21:41,ubuntu-host,python3,3561,INFO,service started for user root
+Jul 29 21:19:41,web-server,docker,3502,CRITICAL,useradd for user ubuntu
+Jul 23 21:57:41,db-node,cron,7569,CRITICAL,service stopped for user arnab
+Jul 18 04:50:41,db-node,docker,6807,CRITICAL,service started for user shreya
+Aug 03 20:59:41,db-node,python3,2814,WARNING,system reboot for user arnab
+Aug 03 02:31:41,log-aggregator,bash,2234,ERROR,service started for user root
+Jul 28 02:22:41,log-aggregator,rsyslogd,624,INFO,useradd for user svc-logger
+Jul 19 00:04:41,db-node,rsyslogd,3781,INFO,service started for user ubuntu
+Jul 26 20:23:41,ubuntu-host,python3,1436,CRITICAL,sudo command executed for user ubuntu
+Jul 17 03:20:41,db-node,rsyslogd,8162,ERROR,sudo command executed for user svc-deploy
+Jul 17 07:35:41,web-server,cron,2032,CRITICAL,cron job ended for user svc-deploy
+Jul 21 06:54:41,ubuntu-host,python3,2534,INFO,service started for user root
+Jul 22 15:09:41,log-aggregator,systemd,5810,ERROR,sudo command executed for user root
+Aug 04 14:25:41,web-server,sshd,2443,CRITICAL,cron job started for user shreya
+Jul 21 03:34:41,ubuntu-host,rsyslogd,9447,ERROR,Failed password for user root
+Jul 30 05:54:41,ubuntu-host,sshd,417,ERROR,session closed for user svc-deploy
+Jul 24 22:00:41,log-aggregator,systemd,9382,WARNING,service started for user root
+Jul 22 19:39:41,web-server,systemd,3910,WARNING,cron job started for user ubuntu
+Jul 31 15:29:41,ubuntu-host,rsyslogd,2479,WARNING,Failed password for user svc-deploy
+Jul 25 19:36:41,db-node,nginx,8854,WARNING,usermod for user ubuntu
+Jul 28 02:33:41,ubuntu-host,docker,3895,INFO,service stopped for user svc-logger
+Jul 22 11:54:41,log-aggregator,python3,7317,INFO,service started for user arnab
+Jul 20 05:54:41,db-node,bash,428,WARNING,session opened for user ubuntu
+Jul 30 18:48:41,ubuntu-host,cron,8018,INFO,session closed for user root
+Jul 26 06:00:41,db-node,cron,3260,WARNING,useradd for user arnab
+Jul 29 13:17:41,ubuntu-host,docker,3131,ERROR,useradd for user svc-logger
+Aug 02 09:59:41,log-aggregator,bash,9820,ERROR,Accepted password for user ubuntu
+Jul 25 01:23:41,log-aggregator,systemd,1467,CRITICAL,sudo command executed for user root
+Jul 25 04:32:41,ubuntu-host,cron,5876,CRITICAL,service started for user arnab
+Jul 17 03:16:41,db-node,nginx,8302,CRITICAL,session closed for user ubuntu
+Aug 02 02:31:41,ubuntu-host,python3,9544,WARNING,service stopped for user root
+Jul 31 05:56:41,log-aggregator,sudo,5269,ERROR,usermod for user root
+Jul 17 23:35:41,log-aggregator,rsyslogd,6708,WARNING,cron job ended for user svc-deploy
+Aug 02 10:58:41,web-server,cron,2300,ERROR,service stopped for user ubuntu
+Aug 02 09:11:41,ubuntu-host,nginx,2643,INFO,sudo command executed for user shreya
+Jul 22 02:25:41,ubuntu-host,sudo,6107,INFO,Failed password for user arnab
+Aug 05 06:23:41,db-node,docker,4568,CRITICAL,useradd for user shreya
+Jul 30 18:29:41,ubuntu-host,docker,6393,ERROR,usermod for user ubuntu
+Jul 27 10:28:41,web-server,systemd,934,CRITICAL,service started for user ubuntu
+Jul 15 17:28:41,ubuntu-host,bash,5117,INFO,session opened for user root
+Aug 01 08:15:41,web-server,cron,8592,CRITICAL,session closed for user arnab
+Aug 03 12:32:41,ubuntu-host,python3,6002,CRITICAL,service stopped for user shreya
+Aug 04 01:55:41,log-aggregator,sudo,2643,CRITICAL,useradd for user svc-logger
+Aug 02 05:16:41,web-server,bash,3144,ERROR,sudo command executed for user arnab
+Aug 04 12:20:41,db-node,cron,6629,INFO,useradd for user svc-logger
+Jul 21 17:06:41,ubuntu-host,docker,4547,CRITICAL,session closed for user arnab
+Jul 16 08:23:41,db-node,nginx,9908,WARNING,Failed password for user shreya
+Jul 31 16:03:41,db-node,cron,554,WARNING,Failed password for user shreya
+Jul 15 18:47:41,db-node,sudo,7822,WARNING,sudo command executed for user svc-logger
+Jul 23 18:13:41,db-node,bash,5965,WARNING,Failed password for user arnab
+Jul 31 05:13:41,log-aggregator,python3,3376,ERROR,usermod for user shreya
+Aug 03 05:02:41,web-server,bash,9126,INFO,system reboot for user root
+Aug 03 22:39:41,web-server,nginx,5717,CRITICAL,cron job started for user shreya
+Jul 20 06:10:41,log-aggregator,systemd,7997,INFO,service stopped for user arnab
+Jul 26 16:04:41,log-aggregator,bash,8869,INFO,cron job started for user svc-deploy
+Jul 18 13:50:41,db-node,sudo,4833,ERROR,service started for user ubuntu
+Jul 30 18:07:41,db-node,rsyslogd,9015,ERROR,Failed password for user arnab
+Aug 04 22:38:41,db-node,systemd,9736,WARNING,Accepted password for user root
+Jul 31 00:39:41,log-aggregator,cron,9670,WARNING,session opened for user svc-logger
+Aug 02 15:13:41,db-node,python3,7362,CRITICAL,Failed password for user ubuntu
+Jul 26 07:14:41,web-server,python3,3464,INFO,session opened for user svc-logger
+Jul 28 03:24:41,log-aggregator,python3,7417,CRITICAL,cron job started for user root
+Jul 30 05:45:41,db-node,nginx,6131,ERROR,service stopped for user root
+Jul 25 22:41:41,log-aggregator,sudo,8804,CRITICAL,Accepted password for user ubuntu
+Jul 26 13:32:41,db-node,docker,7132,CRITICAL,Accepted password for user arnab
+Jul 24 09:31:41,db-node,sudo,3628,ERROR,system reboot for user arnab
+Jul 30 10:44:41,log-aggregator,systemd,8119,WARNING,cron job started for user svc-deploy
+Jul 15 22:13:41,log-aggregator,python3,8945,INFO,service started for user root
+Aug 02 22:08:41,web-server,cron,673,WARNING,session closed for user shreya
+Jul 29 10:51:41,ubuntu-host,docker,2497,WARNING,system reboot for user shreya
+Jul 20 04:47:41,log-aggregator,python3,9131,WARNING,service stopped for user arnab
+Jul 26 14:45:41,web-server,cron,6514,ERROR,usermod for user root
+Jul 29 08:20:41,log-aggregator,rsyslogd,1342,WARNING,Accepted password for user arnab
+Aug 04 19:53:41,log-aggregator,nginx,4049,WARNING,cron job started for user arnab
+Jul 18 04:13:41,ubuntu-host,systemd,5749,CRITICAL,session closed for user svc-deploy
+Jul 19 18:19:41,log-aggregator,sudo,4487,ERROR,session opened for user arnab
+Aug 03 17:04:41,web-server,python3,4290,ERROR,service started for user svc-deploy
+Aug 02 12:42:41,db-node,cron,2486,CRITICAL,session closed for user svc-logger
+Aug 01 00:24:41,web-server,docker,2838,INFO,sudo command executed for user svc-deploy
+Jul 17 16:25:41,log-aggregator,sshd,8636,WARNING,session opened for user root
+Aug 03 10:34:41,db-node,rsyslogd,3647,WARNING,useradd for user ubuntu
+Jul 31 17:41:41,db-node,sudo,1699,WARNING,cron job ended for user root
+Jul 25 06:38:41,web-server,bash,1391,ERROR,system reboot for user arnab
+Aug 03 06:43:41,ubuntu-host,python3,1168,WARNING,usermod for user svc-logger
+Aug 03 16:07:41,ubuntu-host,rsyslogd,6632,ERROR,session closed for user ubuntu
+Jul 28 05:00:41,log-aggregator,rsyslogd,6782,ERROR,service stopped for user svc-logger
+Jul 27 12:35:41,log-aggregator,docker,9038,ERROR,system reboot for user ubuntu
+Jul 16 01:10:41,ubuntu-host,nginx,1900,CRITICAL,cron job started for user ubuntu
+Jul 28 21:53:41,web-server,systemd,9397,INFO,Accepted password for user root
+Jul 19 18:03:41,web-server,sshd,6562,CRITICAL,Accepted password for user ubuntu
+Jul 29 05:31:41,web-server,bash,4175,INFO,usermod for user svc-logger
+Jul 16 05:23:41,db-node,sshd,2177,ERROR,Failed password for user svc-logger
+Aug 04 09:56:41,web-server,bash,8026,WARNING,cron job ended for user shreya
+Jul 18 17:59:41,ubuntu-host,docker,8758,ERROR,service stopped for user root
+Jul 19 05:53:41,db-node,bash,9457,INFO,service started for user arnab
+Jul 19 21:19:41,db-node,systemd,3485,ERROR,Accepted password for user shreya
+Jul 27 12:59:41,ubuntu-host,sudo,3935,ERROR,usermod for user ubuntu
+Jul 20 00:59:41,db-node,cron,1784,WARNING,session opened for user arnab
+Aug 03 18:27:41,ubuntu-host,rsyslogd,375,INFO,system reboot for user root
+Aug 03 18:57:41,web-server,python3,5473,WARNING,Accepted password for user svc-logger
+Jul 30 23:15:41,web-server,docker,2311,INFO,usermod for user shreya
+Jul 26 21:50:41,log-aggregator,python3,8700,CRITICAL,usermod for user shreya
+Jul 17 09:45:41,web-server,docker,8553,CRITICAL,cron job ended for user shreya
+Aug 01 10:42:41,db-node,sshd,793,ERROR,Accepted password for user svc-deploy
+Jul 31 04:54:41,db-node,nginx,7546,ERROR,Accepted password for user ubuntu
+Jul 15 12:03:41,log-aggregator,sshd,4398,INFO,usermod for user arnab
+Jul 22 18:04:41,db-node,cron,4785,ERROR,Accepted password for user ubuntu
+Jul 17 12:09:41,log-aggregator,python3,5362,WARNING,useradd for user svc-logger
+Jul 22 03:21:41,log-aggregator,nginx,2028,WARNING,Failed password for user svc-deploy
+Aug 04 08:13:41,db-node,rsyslogd,5157,CRITICAL,service stopped for user arnab
+Jul 16 17:21:41,ubuntu-host,docker,2642,INFO,session closed for user arnab
+Jul 22 20:42:41,db-node,python3,682,INFO,useradd for user root
+Jul 26 11:18:41,db-node,sudo,1830,CRITICAL,service stopped for user shreya
+Aug 05 07:27:41,ubuntu-host,sshd,9647,INFO,usermod for user svc-deploy
+Jul 24 01:19:41,ubuntu-host,rsyslogd,5797,CRITICAL,system reboot for user arnab
+Jul 20 02:25:41,web-server,rsyslogd,3871,ERROR,session closed for user root
+Jul 20 04:41:41,db-node,sudo,9271,WARNING,session opened for user shreya
+Aug 05 01:28:41,db-node,rsyslogd,545,ERROR,cron job started for user arnab
+Aug 01 09:18:41,db-node,cron,4182,ERROR,system reboot for user svc-deploy
+Jul 22 12:42:41,db-node,docker,4961,INFO,session opened for user shreya
+Aug 02 10:18:41,web-server,sudo,6534,CRITICAL,Failed password for user svc-logger
+Jul 30 20:16:41,db-node,systemd,3197,ERROR,useradd for user arnab
+Jul 29 07:44:41,db-node,cron,8127,CRITICAL,Failed password for user root
+Jul 25 20:25:41,ubuntu-host,docker,2372,CRITICAL,Accepted password for user shreya
+Jul 28 06:29:41,web-server,rsyslogd,1001,CRITICAL,service started for user svc-logger
+Jul 21 00:34:41,ubuntu-host,sshd,6173,CRITICAL,sudo command executed for user ubuntu
+Jul 31 18:49:41,log-aggregator,sshd,1792,CRITICAL,session closed for user shreya
+Jul 29 06:32:41,web-server,cron,336,CRITICAL,usermod for user shreya
+Jul 21 01:02:41,web-server,sudo,7307,ERROR,sudo command executed for user svc-logger
+Aug 01 14:30:41,db-node,sshd,8334,ERROR,session opened for user svc-deploy
+Jul 19 04:18:41,db-node,docker,3754,WARNING,usermod for user arnab
+Jul 28 22:54:41,web-server,systemd,418,ERROR,useradd for user shreya
+Jul 27 15:35:41,ubuntu-host,bash,8324,INFO,session opened for user shreya
+Jul 20 13:22:41,log-aggregator,cron,1231,WARNING,service started for user svc-deploy
+Jul 30 20:27:41,db-node,rsyslogd,2017,WARNING,system reboot for user arnab
+Jul 23 11:51:41,db-node,cron,4233,INFO,Failed password for user ubuntu
+Aug 02 13:07:41,web-server,bash,9374,WARNING,system reboot for user svc-logger
+Jul 19 23:35:41,log-aggregator,sudo,9117,CRITICAL,system reboot for user svc-logger
+Jul 25 08:23:41,ubuntu-host,python3,1407,CRITICAL,cron job ended for user svc-logger
+Jul 19 10:51:41,web-server,rsyslogd,5329,CRITICAL,Failed password for user svc-logger
+Jul 29 12:47:41,log-aggregator,docker,7523,ERROR,session closed for user svc-logger
+Jul 25 20:54:41,ubuntu-host,rsyslogd,9846,WARNING,session opened for user shreya
+Jul 15 12:03:41,ubuntu-host,docker,537,WARNING,usermod for user ubuntu
+Jul 21 00:15:41,web-server,bash,772,CRITICAL,service stopped for user ubuntu
+Jul 18 01:19:41,db-node,systemd,2444,INFO,cron job started for user shreya
+Jul 20 11:56:41,log-aggregator,sudo,401,WARNING,cron job started for user shreya
+Jul 27 22:07:41,ubuntu-host,nginx,6899,CRITICAL,Accepted password for user ubuntu
+Jul 23 16:34:41,ubuntu-host,python3,8975,WARNING,cron job ended for user svc-logger
+Aug 04 16:32:41,web-server,rsyslogd,5092,ERROR,sudo command executed for user svc-deploy
+Jul 29 09:49:41,log-aggregator,bash,2868,CRITICAL,system reboot for user root
+Jul 16 05:06:41,web-server,sudo,8914,CRITICAL,Failed password for user arnab
+Jul 29 07:43:41,log-aggregator,nginx,6335,WARNING,system reboot for user shreya
+Jul 22 09:40:41,web-server,nginx,2965,INFO,session closed for user shreya
+Jul 17 12:23:41,web-server,docker,7827,INFO,session closed for user svc-deploy
+Jul 19 20:12:41,log-aggregator,python3,7946,ERROR,sudo command executed for user arnab
+Aug 03 12:55:41,ubuntu-host,python3,5698,CRITICAL,cron job ended for user arnab
+Jul 30 02:25:41,log-aggregator,sudo,2281,INFO,Accepted password for user shreya
+Jul 29 19:17:41,web-server,sudo,8350,ERROR,usermod for user shreya
+Jul 25 12:43:41,web-server,systemd,9539,INFO,Accepted password for user svc-deploy
+Jul 20 05:04:41,web-server,docker,2431,CRITICAL,useradd for user ubuntu
+Jul 16 05:02:41,ubuntu-host,sudo,5027,INFO,useradd for user root
+Jul 15 15:22:41,log-aggregator,nginx,2692,WARNING,cron job ended for user svc-deploy
+Jul 24 11:09:41,log-aggregator,sshd,2676,ERROR,Failed password for user arnab
+Jul 17 21:51:41,web-server,systemd,7766,CRITICAL,useradd for user arnab
+Jul 29 09:14:41,ubuntu-host,nginx,7062,INFO,Failed password for user svc-deploy
+Aug 03 15:33:41,log-aggregator,systemd,1876,CRITICAL,Accepted password for user svc-deploy
+Jul 18 02:52:41,log-aggregator,bash,8778,WARNING,Failed password for user root
+Jul 23 23:59:41,web-server,systemd,1188,CRITICAL,service started for user svc-logger
+Jul 27 18:55:41,db-node,python3,1432,WARNING,system reboot for user shreya
+Jul 30 02:48:41,ubuntu-host,docker,3058,WARNING,system reboot for user svc-logger
+Jul 27 00:22:41,ubuntu-host,rsyslogd,6617,INFO,useradd for user shreya
+Jul 23 04:13:41,log-aggregator,systemd,481,WARNING,service started for user root
+Jul 20 21:01:41,log-aggregator,python3,3694,ERROR,service stopped for user arnab
+Aug 04 23:02:41,log-aggregator,nginx,3621,ERROR,service stopped for user svc-logger
+Aug 02 15:31:41,ubuntu-host,sudo,6633,CRITICAL,system reboot for user arnab
+Jul 25 05:34:41,db-node,sudo,9923,ERROR,service stopped for user ubuntu
+Aug 05 03:41:41,web-server,sudo,2619,WARNING,usermod for user root
+Aug 02 21:59:41,ubuntu-host,cron,9997,CRITICAL,Failed password for user shreya
+Jul 25 17:40:41,ubuntu-host,python3,7838,INFO,session opened for user svc-logger
+Jul 27 13:01:41,db-node,sudo,9307,WARNING,cron job started for user arnab
+Jul 24 19:49:41,web-server,bash,8475,INFO,usermod for user shreya
+Jul 18 21:09:41,ubuntu-host,cron,402,WARNING,service stopped for user root
+Jul 27 21:35:41,db-node,sshd,5160,INFO,cron job ended for user svc-deploy
+Jul 16 03:39:41,web-server,cron,5683,INFO,cron job ended for user ubuntu
+Jul 31 00:26:41,db-node,docker,6927,CRITICAL,system reboot for user svc-deploy
+Jul 31 14:52:41,web-server,cron,1789,ERROR,cron job ended for user shreya
+Jul 25 20:24:41,web-server,rsyslogd,7176,WARNING,service stopped for user shreya
+Aug 05 04:33:41,ubuntu-host,bash,1474,INFO,sudo command executed for user svc-logger
+Jul 19 13:14:41,log-aggregator,bash,5358,ERROR,Failed password for user shreya
+Jul 16 23:35:41,log-aggregator,rsyslogd,4719,ERROR,Accepted password for user ubuntu
+Jul 17 11:38:41,web-server,rsyslogd,6378,CRITICAL,session opened for user arnab
+Jul 25 03:45:41,web-server,cron,9627,ERROR,usermod for user svc-logger
+Aug 02 08:01:41,db-node,bash,4815,INFO,service stopped for user svc-logger
+Aug 01 21:33:41,log-aggregator,nginx,7704,CRITICAL,cron job started for user svc-logger
+Jul 30 19:22:41,db-node,bash,2770,ERROR,sudo command executed for user shreya
+Jul 18 16:16:41,log-aggregator,sudo,839,INFO,session closed for user root
+Jul 31 13:20:41,web-server,sshd,3557,ERROR,cron job ended for user root
+Jul 24 20:02:41,log-aggregator,sshd,6967,INFO,service started for user svc-logger
+Jul 23 12:55:41,ubuntu-host,rsyslogd,5020,WARNING,sudo command executed for user svc-deploy
+Aug 04 17:06:41,db-node,systemd,7510,WARNING,useradd for user svc-logger
+Jul 25 06:55:41,log-aggregator,sudo,6245,WARNING,service started for user svc-logger
+Jul 18 23:06:41,log-aggregator,cron,265,INFO,session closed for user shreya
+Jul 27 01:16:41,db-node,cron,3229,WARNING,session closed for user svc-deploy
+Jul 21 16:26:41,ubuntu-host,python3,3306,WARNING,cron job started for user ubuntu
+Jul 23 03:47:41,log-aggregator,docker,902,ERROR,Failed password for user arnab
+Aug 03 11:45:41,log-aggregator,python3,7539,CRITICAL,cron job started for user root
+Jul 19 10:19:41,web-server,rsyslogd,257,ERROR,useradd for user ubuntu
+Jul 24 16:29:41,log-aggregator,sudo,8093,ERROR,useradd for user shreya
+Jul 25 20:49:41,log-aggregator,bash,1875,INFO,session closed for user svc-logger
+Jul 28 15:00:41,db-node,sshd,2994,CRITICAL,session opened for user arnab
+Aug 03 16:14:41,ubuntu-host,systemd,3391,CRITICAL,service stopped for user ubuntu
+Jul 29 22:30:41,ubuntu-host,cron,1362,INFO,service started for user root
+Jul 17 08:58:41,ubuntu-host,python3,610,ERROR,Accepted password for user svc-logger
+Aug 04 03:02:41,log-aggregator,docker,4450,INFO,service stopped for user svc-logger
+Jul 24 15:46:41,db-node,rsyslogd,707,INFO,sudo command executed for user svc-logger
+Jul 18 02:44:41,db-node,nginx,1460,WARNING,system reboot for user svc-logger
+Jul 18 02:47:41,ubuntu-host,rsyslogd,1602,INFO,Failed password for user arnab
+Jul 30 01:54:41,log-aggregator,sshd,7369,WARNING,Failed password for user ubuntu
+Jul 16 08:51:41,db-node,cron,7508,CRITICAL,cron job ended for user svc-deploy
+Jul 16 18:31:41,db-node,bash,6337,WARNING,useradd for user shreya
+Jul 24 23:19:41,db-node,rsyslogd,212,CRITICAL,sudo command executed for user svc-deploy
+Aug 03 00:54:41,log-aggregator,docker,3602,WARNING,Accepted password for user svc-deploy
+Jul 28 08:15:41,db-node,bash,2931,INFO,cron job ended for user shreya
+Aug 03 18:19:41,web-server,cron,1204,ERROR,service stopped for user root
+Jul 29 14:38:41,db-node,docker,5720,WARNING,service started for user svc-logger
+Jul 21 00:43:41,log-aggregator,sudo,6119,ERROR,service started for user svc-logger
+Jul 16 11:47:41,db-node,python3,4604,CRITICAL,usermod for user arnab
+Jul 28 23:22:41,ubuntu-host,nginx,1142,ERROR,cron job started for user shreya
+Jul 15 17:32:41,web-server,systemd,7005,WARNING,session opened for user svc-logger
+Jul 20 14:13:41,web-server,sudo,7246,CRITICAL,cron job started for user ubuntu
+Jul 22 01:16:41,db-node,python3,4200,ERROR,cron job started for user svc-deploy
+Jul 23 09:02:41,web-server,bash,9003,CRITICAL,usermod for user shreya
+Jul 30 07:33:41,web-server,sudo,9960,INFO,session opened for user arnab
+Jul 27 01:09:41,web-server,sshd,525,INFO,session opened for user svc-deploy
+Jul 28 08:52:41,ubuntu-host,rsyslogd,1348,CRITICAL,sudo command executed for user root
+Jul 20 10:34:41,web-server,python3,9658,ERROR,cron job started for user svc-logger
+Jul 27 21:30:41,web-server,cron,1948,INFO,service stopped for user ubuntu
+Aug 04 07:50:41,log-aggregator,docker,9588,WARNING,system reboot for user shreya
+Jul 28 01:14:41,log-aggregator,nginx,7643,INFO,session opened for user arnab
+Jul 19 19:42:41,ubuntu-host,python3,4234,INFO,cron job ended for user shreya
+Aug 03 10:25:41,log-aggregator,bash,1283,ERROR,system reboot for user shreya
+Jul 28 10:41:41,db-node,sshd,7603,INFO,Failed password for user shreya
+Jul 16 02:41:41,web-server,sudo,6825,INFO,cron job ended for user arnab
+Aug 03 21:14:41,log-aggregator,docker,690,ERROR,session closed for user shreya
+Aug 03 10:32:41,web-server,python3,639,INFO,cron job started for user root
+Aug 05 07:06:41,web-server,nginx,2509,CRITICAL,cron job ended for user svc-deploy
+Aug 03 21:40:41,db-node,sshd,8891,ERROR,session opened for user ubuntu
+Jul 16 05:32:41,db-node,systemd,356,ERROR,useradd for user ubuntu
+Aug 03 05:24:41,db-node,nginx,3468,ERROR,service started for user svc-deploy
+Jul 22 03:42:41,log-aggregator,bash,1410,INFO,useradd for user shreya
+Jul 24 20:39:41,log-aggregator,systemd,9056,INFO,Accepted password for user svc-logger
+Jul 25 08:59:41,log-aggregator,nginx,6348,WARNING,session opened for user arnab
+Jul 18 16:07:41,db-node,rsyslogd,4859,WARNING,service stopped for user arnab
+Jul 29 06:32:41,db-node,rsyslogd,2758,INFO,useradd for user arnab
+Jul 19 22:38:41,web-server,python3,4893,INFO,cron job started for user arnab
+Aug 03 21:57:41,log-aggregator,sshd,8810,INFO,session closed for user shreya
+Jul 19 13:56:41,web-server,sshd,1034,INFO,system reboot for user svc-deploy
+Jul 27 23:04:41,log-aggregator,docker,3837,INFO,session closed for user root
+Aug 04 01:49:41,db-node,nginx,2054,WARNING,cron job started for user svc-logger
+Jul 17 10:26:41,web-server,python3,2801,ERROR,session closed for user root
+Jul 22 03:45:41,log-aggregator,sudo,1935,CRITICAL,Failed password for user svc-logger
+Jul 15 18:42:41,ubuntu-host,docker,9486,INFO,session closed for user root
+Jul 16 22:20:41,ubuntu-host,rsyslogd,5558,WARNING,sudo command executed for user svc-logger
+Jul 23 00:37:41,db-node,bash,9617,ERROR,Failed password for user shreya
+Jul 31 17:48:41,db-node,python3,4492,INFO,cron job ended for user ubuntu
+Jul 29 23:51:41,web-server,python3,9806,CRITICAL,cron job started for user root
+Aug 02 20:32:41,log-aggregator,cron,3525,CRITICAL,cron job started for user ubuntu
+Jul 18 22:40:41,ubuntu-host,nginx,6764,CRITICAL,cron job started for user svc-deploy
+Aug 03 15:43:41,log-aggregator,systemd,2211,INFO,sudo command executed for user svc-deploy
+Jul 29 00:31:41,ubuntu-host,systemd,7675,ERROR,useradd for user root
+Aug 01 14:44:41,db-node,sudo,2000,ERROR,system reboot for user svc-deploy
+Jul 27 09:11:41,db-node,nginx,9305,ERROR,session opened for user arnab
+Aug 03 04:09:41,log-aggregator,python3,9083,INFO,service stopped for user ubuntu
+Jul 26 23:10:41,log-aggregator,bash,5613,INFO,cron job ended for user root
+Jul 15 15:43:41,log-aggregator,cron,8174,CRITICAL,service started for user shreya
+Jul 20 19:10:41,db-node,sudo,8620,WARNING,cron job started for user svc-deploy
+Jul 26 03:30:41,ubuntu-host,systemd,2873,ERROR,service started for user ubuntu
+Jul 21 10:05:41,log-aggregator,cron,4765,INFO,session closed for user root
+Jul 15 22:15:41,log-aggregator,cron,4540,WARNING,cron job ended for user svc-deploy
+Jul 27 17:58:41,log-aggregator,nginx,1024,CRITICAL,service stopped for user shreya
+Aug 02 13:46:41,ubuntu-host,systemd,9473,ERROR,service started for user svc-deploy
+Aug 02 20:37:41,log-aggregator,sshd,2232,WARNING,session opened for user shreya
+Jul 17 05:06:41,log-aggregator,cron,2727,CRITICAL,service started for user svc-logger
+Jul 17 12:21:41,ubuntu-host,cron,9248,WARNING,sudo command executed for user arnab
+Jul 19 12:45:41,ubuntu-host,docker,8822,INFO,usermod for user ubuntu
+Jul 26 23:59:41,ubuntu-host,nginx,803,CRITICAL,session closed for user ubuntu
+Jul 21 10:13:41,db-node,docker,9799,INFO,sudo command executed for user root
+Aug 04 22:40:41,log-aggregator,sshd,6290,ERROR,cron job ended for user ubuntu
+Jul 28 09:04:41,ubuntu-host,cron,5232,INFO,cron job ended for user svc-deploy
+Jul 24 04:31:41,log-aggregator,python3,1475,ERROR,useradd for user shreya
+Jul 28 14:11:41,ubuntu-host,sudo,3501,WARNING,sudo command executed for user ubuntu
+Jul 24 22:37:41,log-aggregator,rsyslogd,8043,CRITICAL,session opened for user svc-deploy
+Jul 20 20:13:41,db-node,docker,8775,CRITICAL,service started for user svc-logger
+Jul 22 03:22:41,db-node,sshd,8704,ERROR,Failed password for user ubuntu
+Jul 23 10:15:41,db-node,nginx,9562,CRITICAL,session closed for user ubuntu
+Jul 16 06:36:41,ubuntu-host,systemd,800,ERROR,session opened for user ubuntu
+Aug 03 07:31:41,web-server,cron,651,INFO,service started for user arnab
+Jul 18 11:57:41,web-server,python3,7836,WARNING,Accepted password for user svc-logger
+Jul 18 12:15:41,log-aggregator,nginx,4200,CRITICAL,usermod for user shreya
+Jul 20 10:06:41,log-aggregator,sshd,1873,WARNING,Accepted password for user ubuntu
+Aug 02 13:52:41,log-aggregator,cron,1444,INFO,system reboot for user svc-logger
+Jul 29 09:51:41,log-aggregator,python3,421,CRITICAL,session closed for user svc-deploy
+Jul 21 18:26:41,web-server,cron,6564,WARNING,Accepted password for user shreya
+Jul 17 20:44:41,ubuntu-host,python3,6844,CRITICAL,sudo command executed for user shreya
+Jul 27 20:43:41,db-node,sudo,2738,CRITICAL,useradd for user root
+Jul 18 21:47:41,db-node,python3,1097,CRITICAL,system reboot for user root
+Jul 22 17:50:41,web-server,cron,6700,WARNING,service started for user shreya
+Jul 18 02:36:41,db-node,bash,8143,CRITICAL,service stopped for user svc-logger
+Jul 30 18:24:41,db-node,nginx,7699,ERROR,sudo command executed for user root
+Aug 04 15:22:41,web-server,sudo,4933,INFO,usermod for user arnab
+Jul 24 19:04:41,web-server,nginx,8667,CRITICAL,system reboot for user shreya
+Aug 04 11:26:41,ubuntu-host,docker,8169,CRITICAL,system reboot for user root
+Jul 19 12:36:41,log-aggregator,sshd,6493,INFO,service stopped for user root
+Jul 31 08:37:41,ubuntu-host,cron,9096,WARNING,service started for user ubuntu
+Jul 29 02:49:41,log-aggregator,sshd,3396,WARNING,service started for user arnab
+Jul 20 22:04:41,ubuntu-host,sudo,893,ERROR,session opened for user root
+Jul 28 08:10:41,log-aggregator,cron,2982,ERROR,system reboot for user svc-deploy
+Aug 01 21:59:41,db-node,docker,9267,WARNING,service started for user ubuntu
+Aug 04 04:42:41,web-server,bash,8776,INFO,cron job started for user arnab
+Jul 22 12:44:41,db-node,docker,2498,WARNING,service stopped for user shreya
+Jul 23 12:29:41,db-node,sudo,7789,WARNING,system reboot for user ubuntu
+Jul 25 15:58:41,web-server,python3,3665,WARNING,service started for user svc-logger
+Jul 28 01:20:41,web-server,sshd,9366,ERROR,session opened for user root
+Jul 25 16:32:41,log-aggregator,rsyslogd,424,ERROR,Accepted password for user shreya
+Jul 28 00:47:41,log-aggregator,bash,214,INFO,service stopped for user svc-deploy
+Jul 22 04:41:41,ubuntu-host,bash,4866,INFO,Accepted password for user shreya
+Aug 04 14:48:41,web-server,cron,9710,INFO,session opened for user svc-logger
+Jul 19 17:18:41,web-server,sudo,5997,INFO,sudo command executed for user ubuntu
+Jul 24 20:31:41,web-server,systemd,8377,ERROR,service started for user shreya
+Jul 18 02:43:41,ubuntu-host,nginx,5625,INFO,Failed password for user root
+Jul 20 20:07:41,ubuntu-host,docker,8446,CRITICAL,session opened for user svc-logger
+Jul 17 20:00:41,web-server,docker,9317,INFO,cron job ended for user ubuntu
+Jul 19 21:25:41,ubuntu-host,rsyslogd,9847,ERROR,sudo command executed for user shreya
+Jul 16 10:30:41,log-aggregator,bash,3441,CRITICAL,Accepted password for user ubuntu
+Jul 28 03:38:41,web-server,cron,7544,CRITICAL,cron job started for user ubuntu
+Jul 27 22:52:41,log-aggregator,nginx,811,WARNING,session closed for user root
+Jul 30 03:13:41,web-server,docker,7778,CRITICAL,system reboot for user root
+Jul 27 09:13:41,ubuntu-host,systemd,1452,CRITICAL,session closed for user shreya
+Jul 24 13:16:41,ubuntu-host,sshd,5016,WARNING,usermod for user root
+Jul 26 02:53:41,web-server,docker,3646,WARNING,Failed password for user ubuntu
+Aug 01 04:48:41,web-server,cron,9180,CRITICAL,session closed for user svc-logger
+Jul 17 01:02:41,db-node,sudo,5181,ERROR,service started for user shreya
+Jul 17 02:08:41,web-server,sshd,1193,CRITICAL,Accepted password for user arnab
+Aug 02 18:20:41,log-aggregator,sshd,6593,CRITICAL,cron job started for user ubuntu
+Jul 17 19:01:41,ubuntu-host,docker,7779,INFO,usermod for user svc-deploy
+Jul 30 18:33:41,db-node,bash,8695,ERROR,cron job ended for user shreya
+Jul 17 16:46:41,log-aggregator,bash,9213,INFO,service stopped for user root
+Jul 28 13:18:41,log-aggregator,rsyslogd,8133,WARNING,Failed password for user arnab
+Jul 19 20:58:41,db-node,sshd,4215,INFO,useradd for user root
