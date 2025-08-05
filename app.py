@@ -9,12 +9,12 @@ API_BASE_URL = "http://localhost:8000"
 LLM_URL="http://localhost:11434"
 
 st.set_page_config(
-    page_title="🧠 Network Logs Analyzer",
+    page_title="CyberFenz Agentic AI",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-st.title("Network Logs Analyzer Assistant")
+st.title("CyberFenz Agentic AI")
 
 # Initialize session state
 if 'session_id' not in st.session_state:
